@@ -1,0 +1,71 @@
+{
+  "1": {
+    "conservar": [[0.80, 20.84], [25.30, 31.36]],
+    "nota": "Parte inicial de la escena 1: sale como 1.0.wav. Se quita la primera toma de «El camino corre junto al Dreisam» (21,3-23,4 s); queda la repetición, que sigue con «un río angosto…»."
+  },
+  "1.1": {
+    "conservar": [[1.46, 21.63]],
+    "pausa_final": 1.0,
+    "nota": "Se quita un golpe grave al inicio (0,2-1,2 s). El guion cierra con (pausa): 1 s de silencio final."
+  },
+  "2": {
+    "nota": "Parte inicial de la escena 2: sale como 2.0.wav. Sin cortes."
+  },
+  "2.1": {
+    "conservar": [[1.05, 7.83], [13.62, 17.46], [21.06, 29.38]],
+    "nota": "Se quitan dos frases dejadas a medias: «Todo lo que guardas termina en un chip.» (10,7-12,9 s) y «Ese chip guarda ceros y unos en mi…» (17,8-20,5 s); quedan sus tomas completas."
+  },
+  "2.3": {
+    "conservar": [[1.08, 28.14], [30.41, 36.49]],
+    "nota": "Se quita el «Google…» dejado a medias (28,5-29,9 s); queda «Google hizo algo parecido…»."
+  },
+  "2.6": {
+    "omitir": true,
+    "nota": "Toma abortada de la subescena 2.6 del guion («Apple ajustó esa mezcla para que se repitiera…», 6 s). La toma completa está en el original «2.7». Sin salida."
+  },
+  "2.7": {
+    "guion": "2.6",
+    "conservar": [[1.30, 14.93], [17.13, 36.69]],
+    "nota": "Contiene el texto de la subescena 2.6 del guion («Apple ajustó esa mezcla…»), no el de la 2.7: sale como 2.6.wav. Se quita una inhalación fuerte entre «es un freno.» y «Una contraseña de 4 dígitos…» (16,3-16,8 s)."
+  },
+  "2.8": {
+    "conservar": [[0.64, 8.34]],
+    "incompleto": "Termina en «el cuarto, el teléfono hace esperar unos minutos» (oración 3 de 11): faltan las oraciones 4 a 11, desde «Al quinto, cinco minutos».",
+    "nota": "Se conserva lo grabado."
+  },
+  "2.9": {
+    "omitir": true,
+    "nota": "Toma abortada de la subescena 2.9 del guion: dice las dos primeras oraciones («Android resolvió el mismo problema…» hasta «…en todo teléfono nuevo») y se corta en «Antes de…». La toma completa está en el original «2.10». Sin salida."
+  },
+  "2.10": {
+    "guion": "2.9",
+    "nota": "Contiene el texto completo de la subescena 2.9 del guion («Android resolvió el mismo problema…»), no el de la 2.10: sale como 2.9.wav."
+  },
+  "3": {
+    "omitir": true,
+    "nota": "Toma abortada de la subescena 3.0 del guion: «Syed Rizwan y su esposa Tash…» (9 s, 6 palabras). Sin salida; la 3.0 no tiene grabación."
+  },
+  "3.2": {
+    "conservar": [[1.52, 7.98], [16.82, 21.83], [28.72, 36.44], [38.83, 54.47]],
+    "pausa_final": 1.0,
+    "nota": "Se quitan «sin borrar el décimo intento…» (dos tomas con error), dos «Tim Cook» sueltos (22,6 y 26,6 s) y un «Apple se negó» a medias (36,7-37,8 s). El guion cierra con (pausa): 1 s de silencio final."
+  },
+  "3.4": {
+    "guion": "3.3",
+    "conservar": [[2.09, 15.34], [20.88, 25.99], [30.39, 46.07], [49.77, 55.75]],
+    "nota": "Contiene el texto de la subescena 3.3 del guion («Durante cinco años nadie supo quién lo hizo…»), no el de la 3.4: sale como 3.3.wav. Se quitan «Para entender cómo encontrar un…» (18,5-20,0 s), «Cuando conectas algo al puerto Lightning» a medias (26,3-28,6 s), un golpe grave (46,4 s) y «Eso significa que hay un programa de…» a medias (47,2-49,5 s)."
+  },
+  "3.5": {
+    "conservar": [[1.49, 7.14]],
+    "incompleto": "Termina a media oración 2 de 6 («…Mark Dowd tenía 41 años»): falta el resto de esa oración («y se dedicaba a leer código ajeno buscando fallas») y las oraciones 3 a 6.",
+    "nota": "Se quitan el siseo inicial y 2 s de ruido tras la última frase."
+  },
+  "3.1": {
+    "omitir": true,
+    "nota": "Sin voz utilizable: ~25 dB por debajo del resto y solo ruido. La subescena 3.1 del guion no tiene grabación."
+  },
+  "3.3": {
+    "omitir": true,
+    "nota": "Sin voz utilizable: ~25 dB por debajo del resto y solo ruido. El texto de la subescena 3.3 del guion está en el original «3.4»."
+  }
+}

@@ -1,0 +1,36 @@
+# Lo que se regenera o es propio de cada video no va en git (ver README.md, «Lo que no está en git»).
+
+# Entornos de Python
+.venv/
+.venv-voz/
+__pycache__/
+*.pyc
+
+# Renders, revisiones y temporales
+salida/
+revision/
+*_tmp/
+*.tmp.*
+
+# Narración: se genera o se graba por video
+audios/
+audios_escenas/
+audios_grabados/
+audios_originales/
+**/voz/crudas/
+**/voz/elevenlabs/tomas/
+**/voz/elevenlabs/crudas/
+**/voz/elevenlabs/crudas_v1/
+**/voz/elevenlabs/pruebas/
+
+# Fotos y clips de cada video (sus fuentes quedan anotadas en fuentes_imagenes.txt)
+clips_reales/
+**/imagenes/*
+!**/imagenes/LEEME.md
+
+# Recursos 3D: se bajan de su sitio (lista en recursos_3d/LEEME.txt)
+**/recursos_3d/*
+!**/recursos_3d/LEEME.txt
+
+# Enlaces firmados de ElevenLabs (caducan y no hacen falta para repetir nada)
+**/voz/elevenlabs/enlaces.tsv

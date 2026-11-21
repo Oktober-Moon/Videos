@@ -1,0 +1,8 @@
+# Entorno aparte para la voz clonada (voz.py), en .venv-voz con Python 3.13:
+#   py -3.13 -m venv .venv-voz
+#   .venv-voz/Scripts/python -m pip install torch==2.6.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+#   .venv-voz/Scripts/python -m pip install -r requirements-voz.txt
+# Los pesos del modelo (unos 3.2 GB, ResembleAI/Chatterbox-Multilingual-es-mx-latam en Hugging Face,
+# licencia MIT) se bajan una vez con `voz.py --bajar`; después solo se leen de la caché local.
+chatterbox-tts==0.1.7
+num2words

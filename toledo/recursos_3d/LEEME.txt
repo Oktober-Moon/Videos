@@ -1,0 +1,24 @@
+Recursos 3D descargados (texturas escaneadas y cielos), todos con licencia CC0 de ambientCG (https://ambientcg.com).
+Se guardan solo las imágenes; los archivos de proyecto que traían los paquetes (.blend, .usdc, .tres, .mtlx) se borraron sin abrirlos.
+NightEnvironmentHDRI002_4K | https://ambientcg.com/view?id=NightEnvironmentHDRI002 | cielo de noche en una plaza de pueblo (ilumina la escena)
+PavingStones119_2K-JPG     | https://ambientcg.com/view?id=PavingStones119 | adoquín de la calzada
+PavingStones109_2K-JPG     | https://ambientcg.com/view?id=PavingStones109 | losas de la banqueta
+Plaster003_2K-JPG          | https://ambientcg.com/view?id=Plaster003 | revoque de las fachadas (se tiñe con el color de cada casa)
+RoofingTiles007_2K-JPG     | https://ambientcg.com/view?id=RoofingTiles007 | tejas
+
+Personas (descargadas el 11 de noviembre de 2026, con permiso de Eduardo):
+mpfb/add-on-mpfb-v2.0.18.zip          | https://extensions.blender.org/add-ons/mpfb/ (sitio oficial de extensiones de Blender) | extensión MPFB de la comunidad MakeHuman | GPL 3; instalada en Blender (repositorio user_default); sha256 c075b3e9…2dad, igual al publicado
+mpfb/makehuman_system_assets_cc0.zip  | https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html (espejo files.makehumancommunity.org) | cuerpos, pieles, ojos, cejas, pelo y ropa | CC0; descomprimido en la carpeta de datos de MPFB
+
+Río (descargadas el 12 de noviembre de 2026, con permiso de Eduardo; CC0 de ambientCG):
+Grass004_2K-JPG     | https://ambientcg.com/view?id=Grass004 | pasto de los taludes del Dreisam
+Rocks008_2K-JPG     | https://ambientcg.com/view?id=Rocks008 | piedras de la escollera
+Asphalt010_2K-JPG   | https://ambientcg.com/view?id=Asphalt010 | asfalto de la ciclovía y de la calle
+Concrete031_2K-JPG  | https://ambientcg.com/view?id=Concrete031 | concreto del puente
+Bark001_2K-JPG      | https://ambientcg.com/view?id=Bark001 | corteza de los árboles
+
+Captura de movimiento (descargada el 12 de noviembre de 2026, con permiso de Eduardo):
+mocap/08.asf     | http://mocap.cs.cmu.edu/subjects/08/08.asf    | esqueleto del sujeto 8 (formato ASF)
+mocap/08_01.amc  | http://mocap.cs.cmu.edu/subjects/08/08_01.amc | caminata normal, 2.3 s a 120 cuadros por segundo (formato AMC)
+Base pública de captura de movimiento de Carnegie Mellon (CMU Graphics Lab, mocap.cs.cmu.edu): según
+su página de preguntas, los datos «may be copied, modified, or redistributed without permission».

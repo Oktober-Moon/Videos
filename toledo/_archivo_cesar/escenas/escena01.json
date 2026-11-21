@@ -1,0 +1,86 @@
+{
+  "escena": "escena01",
+  "titulo": "El cifrado César y la criptografía básica dentro de la ingeniería social — Escena 1",
+  "palabras_por_minuto": 170,
+  "_ayuda": [
+    "Único lugar con los tiempos de la escena. Tras grabar la narración se cambian aquí y se vuelve a renderizar.",
+    "inicio/fin: 'm:ss.s' o segundos. Cada plano debe empezar donde termina el anterior.",
+    "marcas: segundos desde el INICIO DEL PLANO; mueven a la vez la imagen y el efecto de sonido.",
+    "pausa_final: segundos sin narración al final del plano.",
+    "subtitulos (opcional): lista de {desde, hasta, texto} en segundos desde el inicio del plano; si falta, se reparten solos a 'palabras_por_minuto'."
+  ],
+  "planos": [
+    {
+      "plano": 1,
+      "inicio": "0:00",
+      "fin": "0:12",
+      "texto": "Año 54 antes de Cristo, en lo que hoy es Bélgica. Un romano llamado Quinto Tulio Cicerón lleva días encerrado en un campamento de invierno.",
+      "marcas": { "fecha": 1.4, "niebla": 6.0, "campamento": 7.2 }
+    },
+    {
+      "plano": 2,
+      "inicio": "0:12",
+      "fin": "0:26",
+      "texto": "Es el hermano menor de Cicerón, el orador famoso. Afuera lo rodean miles de guerreros de la tribu de los nervios. Esos guerreros levantaron torres y murallas copiando lo que aprendieron de prisioneros romanos.",
+      "marcas": { "torres": 7.6 }
+    },
+    {
+      "plano": 3,
+      "inicio": "0:26",
+      "fin": "0:31",
+      "texto": "Cicerón no sabe si alguien viene a rescatarlo.",
+      "pausa_final": 1.0,
+      "marcas": {}
+    },
+    {
+      "plano": 4,
+      "inicio": "0:31",
+      "fin": "0:46",
+      "texto": "A varios días de camino, Julio César escribe una carta. Se la entrega a un jinete galo, un hombre de la misma tierra que los sitiadores. Le promete una recompensa enorme.",
+      "marcas": { "entrega": 4.4, "monedas": 9.6 }
+    },
+    {
+      "plano": 5,
+      "inicio": "0:46",
+      "fin": "0:54",
+      "texto": "La instrucción es rara: si no logra entrar al campamento, debe amarrar la carta a una lanza y arrojarla por encima de la muralla.",
+      "marcas": { "enrollar": 0.6, "amarrar": 3.6 }
+    },
+    {
+      "plano": 6,
+      "inicio": "0:54",
+      "fin": "1:10",
+      "texto": "El jinete llega. No puede entrar. Lanza. La lanza se clava en una torre del campamento y ahí se queda. Pasa un día. Pasan dos. Nadie la ve. Al tercer día un soldado levanta la vista, la baja y se la lleva a Cicerón.",
+      "marcas": { "alto": 2.4, "lanzamiento": 3.5, "impacto": 4.1, "lapso": 7.6, "soldado": 12.0, "cabeza": 13.4 }
+    },
+    {
+      "plano": 7,
+      "inicio": "1:10",
+      "fin": "1:17",
+      "texto": "La carta decía que César ya venía con sus legiones y que Cicerón mantuviera su valor de siempre.",
+      "marcas": { "desplegar": 0.6 }
+    },
+    {
+      "plano": 8,
+      "inicio": "1:17",
+      "fin": "1:38.5",
+      "texto": "César cuenta esta escena en su propio libro, La guerra de las Galias. Y agrega un detalle que casi nadie menciona: la carta iba escrita con letras griegas, para que el enemigo no la entendiera si la atrapaba. Su mensaje más importante viajó en manos de un extranjero. Su única protección era una apuesta: que quien lo interceptara no supiera leerlo.",
+      "marcas": { "carta": 4.9, "enemigo": 13.2, "revuelto": 14.0 }
+    },
+    {
+      "plano": 9,
+      "inicio": "1:38.5",
+      "fin": "1:43.5",
+      "texto": "",
+      "marcas": { "titulo": 0.4 }
+    }
+  ],
+  "revision": [
+    { "archivo": "1_plano1_mapa.png", "plano": 1, "t": 3.6 },
+    { "archivo": "2_plano2_colina.png", "plano": 2, "t": 11.2 },
+    { "archivo": "3_plano4_carta.png", "plano": 4, "t": 3.0 },
+    { "archivo": "4_plano6_impacto.png", "plano": 6, "marca": "impacto", "t": 0.07 },
+    { "archivo": "5_plano6_paso_del_tiempo.png", "plano": 6, "marca": "lapso", "t": 1.6 },
+    { "archivo": "6_plano9_titulo.png", "plano": 9, "t": 2.5 }
+  ]
+}

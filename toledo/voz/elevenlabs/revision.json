@@ -1,0 +1,1232 @@
+{
+ "1.0.mp3": {
+  "id": "1.0",
+  "duracion": 25.17,
+  "fin_ultima_palabra": 24.96,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [
+   [
+    6.26,
+    6.46
+   ]
+  ],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Friburgo, en el suroeste de Alemania. Es la madrugada del 16 de octubre de 2016. María Ladenburger tiene 19 años y estudia medicina en la Universidad de la Ciudad. Esa noche hubo una fiesta de su facultad. A las 2.37 de la mañana sale de la fiesta y se sube a su bicicleta para volver a casa. El camino corre junto al Dreisam, un río angosto que atraviesa la ciudad. María nunca llega."
+ },
+ "1.0_A.mp3": {
+  "id": "1.0",
+  "duracion": 26.1,
+  "fin_ultima_palabra": 25.98,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [
+   [
+    24.59,
+    24.74
+   ]
+  ],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Friburgo, en el suroeste de Alemania. Es la madrugada del 16 de octubre de 2016. María Ladenburger tiene 19 años y estudia medicina en la Universidad de la ciudad. Esa noche hubo una fiesta de su facultad. A las 2.37 de la mañana sale de la fiesta y se sube a su bicicleta para volver a casa. El camino corre junto al Dreisam, un río angosto que atraviesa la ciudad. María nunca llega."
+ },
+ "1.0_B.mp3": {
+  "id": "1.0",
+  "duracion": 26.01,
+  "fin_ultima_palabra": 25.78,
+  "parecido_texto": 0.993,
+  "vocalizaciones": [
+   [
+    23.7,
+    24.36
+   ]
+  ],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Friburgo, en el suroeste de Alemania, es la madrugada del 16 de octubre de 2016. María Ladenburger tiene 19 años y estudia medicina en la Universidad de la Ciudad. Esa noche hubo una fiesta de su facultad. A las 2.37 de la mañana sale de la fiesta y se sube a su bicicleta para volver a casa. El camino corre junto al Dreisam, un río angosto que atraviesa la ciudad. Mmm... María nunca llega."
+ },
+ "2.1.mp3": {
+  "id": "2.1",
+  "duracion": 19.13,
+  "fin_ultima_palabra": 18.88,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Hasta hace unos años eso no detendría a nadie. Para entender por qué, hay que ver dónde vive la información de un teléfono. Todo lo que guardas termina en un chip de memoria flash soldado a la placa. Ese chip guarda ceros y unos en millones de celdas diminutas. El chip no sabe qué es una foto ni qué es un mensaje, solo guarda ceros y unos."
+ },
+ "2.1_elevenlabs_v4_serio.mp3": {
+  "id": "2.1",
+  "duracion": 20.08,
+  "fin_ultima_palabra": 19.84,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Hasta hace unos años, eso no detendría a nadie. Para entender por qué, hay que ver dónde vive la información de un teléfono. Todo lo que guardas termina en un chip de memoria flash soldado a la placa. Ese chip guarda ceros y unos en millones de celdas diminutas. El chip no sabe qué es una foto ni qué es un mensaje, solo guarda ceros y unos."
+ },
+ "1.0_a.mp3": {
+  "id": "1.0",
+  "duracion": 23.96,
+  "fin_ultima_palabra": 23.8,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Friburgo, en el suroeste de Alemania. Es la madrugada del 16 de octubre de 2016. Maria Ladenburger tiene 19 años y estudia medicina en la Universidad de la ciudad. Esa noche hubo una fiesta de su facultad. A las 2.37 de la mañana sale de la fiesta y se sube a su bicicleta para volver a casa. El camino corre junto al Dreisam, un río angosto que atraviesa la ciudad. María nunca llega."
+ },
+ "1.0_b.mp3": {
+  "id": "1.0",
+  "duracion": 23.45,
+  "fin_ultima_palabra": 23.28,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Friburgo, en el suroeste de Alemania. Es la madrugada del 16 de octubre de 2016. María Ladenburger tiene 19 años y estudia medicina en la Universidad de la Ciudad. Esa noche hubo una fiesta de su facultad. A las 2.37 de la mañana sale de la fiesta y se sube a su bicicleta para volver a casa. El camino corre junto al Dreisam, un río angosto que atraviesa la ciudad. María nunca llega."
+ },
+ "1.1_a.mp3": {
+  "id": "1.1",
+  "duracion": 18.2,
+  "fin_ultima_palabra": 18.08,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Horas después, una persona que salió a correr encuentra su cuerpo en el río. La autopsia confirma lo peor. La violaron y después la ahogaron. La policía no tiene testigos. En esa orilla no hay cámaras. Lo que tiene es poco. Un cabello encontrado cerca del lugar, una bufanda y los videos de las cámaras de los tranvías de la ciudad."
+ },
+ "1.1_b.mp3": {
+  "id": "1.1",
+  "duracion": 19.78,
+  "fin_ultima_palabra": 19.64,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Horas después, una persona que salió a correr encuentra su cuerpo en el río. La autopsia confirma lo peor. La violaron y después la ahogaron. La policía no tiene testigos. En esa orilla no hay cámaras. Lo que tiene es poco. Un cabello encontrado cerca del lugar, una bufanda y los videos de las cámaras de los tranvías de la ciudad."
+ },
+ "1.2_a.mp3": {
+  "id": "1.2",
+  "duracion": 12.63,
+  "fin_ultima_palabra": 12.5,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Lo que nadie sabe todavía es que esa noche hubo un testigo más, iba en el bolsillo del asesino, contó cada paso que dio y registró algo que, meses después, un policía tuvo que volver a caminar en esa misma orilla para poder creerlo."
+ },
+ "1.2_b.mp3": {
+  "id": "1.2",
+  "duracion": 13.28,
+  "fin_ultima_palabra": 13.14,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Lo que nadie sabe todavía es que esa noche hubo un testigo más. Iba en el bolsillo del asesino, contó cada paso que dio y registró algo que meses después un policía tuvo que volver a caminar en esa misma orilla para poder creerlo."
+ },
+ "2.0_a.mp3": {
+  "id": "2.0",
+  "duracion": 25.77,
+  "fin_ultima_palabra": 25.6,
+  "parecido_texto": 0.987,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Con el cabello y los videos del tranvía, la policía llega a un joven que vive en Friburgo. Lo arrestan el 3 de diciembre de 2016. Se llama Husein Javari. Llegó a Alemania en noviembre de 2015 en plena ola de refugiados, sin un solo documento. Dijo ser afgano y tener 16 años. Por eso lo trataron como menor y lo mandaron a vivir con una familia de acogida. Tiene un iPhone y se niega a dar la contraseña."
+ },
+ "2.0_b.mp3": {
+  "id": "2.0",
+  "duracion": 25.17,
+  "fin_ultima_palabra": 25.02,
+  "parecido_texto": 0.967,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Con el cabello y los videos del tranvía, la policía llega a un joven que vive en Friburgo. Lo arresta en el 3 de diciembre de 2016. Se llama Husein Javari. Llegó a Alemania en noviembre de 2015 en plena ola de refugiados sin un solo documento. Dijo ser afgano y tener 16 años. Por eso lo trataron como menor y lo mandaron a vivir con una familia de acogida. Tiene un iPhone y se niega a dar la contraseña."
+ },
+ "2.10_a.mp3": {
+  "id": "2.10",
+  "duracion": 39.61,
+  "fin_ultima_palabra": 39.4,
+  "parecido_texto": 0.983,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Con F, B, E, el teléfono separa su memoria en dos zonas. La primera zona se cifra con una clave que el teléfono puede abrir solo, apenas enciende. Ahí van las cosas que deben funcionar, sin desbloquear, como la alarma o el marcador de llamadas. La segunda zona guarda todo lo personal. Esa zona se cifra con una clave que depende de tu contraseña y queda cerrada hasta que la escribes. Además, cada archivo tiene su propia clave, así que la policía de Friburgo tenía un iPhone, un sospechoso que no hablaba y un chip diseñado para impedir justo lo que ellos necesitaban hacer. Ese mismo año, ese mismo problema había llevado al FBI a demandar a Apple."
+ },
+ "2.10_b.mp3": {
+  "id": "2.10",
+  "duracion": 42.12,
+  "fin_ultima_palabra": 41.92,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Con FBE, el teléfono separa su memoria en dos zonas. La primera zona se cifra con una clave que el teléfono puede abrir solo, apenas enciende. Ahí van las cosas que deben funcionar sin desbloquear, como la alarma o el marcador de llamadas. La segunda zona guarda todo lo personal. Esa zona se cifra con una clave que depende de tu contraseña y queda cerrada hasta que la escribes. Además, cada archivo tiene su propia clave. Así que la policía de Friburgo tenía un iPhone, un sospechoso que no hablaba y un chip diseñado para impedir justo lo que ellos necesitaban hacer. Ese mismo año, ese mismo problema había llevado al FBI a demandar a Apple."
+ },
+ "2.1_a.mp3": {
+  "id": "2.1",
+  "duracion": 19.55,
+  "fin_ultima_palabra": 19.34,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Hasta hace unos años eso no detendría a nadie. Para entender por qué hay que ver dónde vive la información de un teléfono. Todo lo que guardas termina en un chip de memoria flash soldado a la placa. Ese chip guarda ceros y unos en millones de celdas diminutas. El chip no sabe qué es una foto ni qué es un mensaje. Solo guarda ceros y unos."
+ },
+ "2.1_b.mp3": {
+  "id": "2.1",
+  "duracion": 18.58,
+  "fin_ultima_palabra": 18.36,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Hasta hace unos años eso no detendría a nadie. Para entender por qué hay que ver dónde vive la información de un teléfono. Todo lo que guardas termina en un chip de memoria flash soldado a la placa. Ese chip guarda ceros y unos en millones de celdas diminutas. El chip no sabe qué es una foto ni qué es un mensaje, solo guarda ceros y unos."
+ },
+ "2.2_a.mp3": {
+  "id": "2.2",
+  "duracion": 50.06,
+  "fin_ultima_palabra": 49.98,
+  "parecido_texto": 0.993,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "La técnica clásica se llamaba Extracción Física. El perito conectaba el teléfono por el cable y lo arrancaba con un programa propio distinto del sistema operativo normal. Ese programa le ordenaba al teléfono leer su memoria de principio a fin y mandarla por el cable. El resultado era una copia exacta bit por bit del chip completo. La copia incluía también lo que el usuario había borrado. Eso pasa porque borrar un archivo casi nunca destruye sus datos. El sistema solo marca ese espacio como libre y los datos siguen ahí hasta que algo nuevo lo sobrescribe. En los teléfonos de esa época, la memoria no estaba cifrada o estaba cifrada con una clave que se podía sacar del propio teléfono. Con la copia en una computadora del laboratorio, el perito podía probar millones de contraseñas por segundo con tarjetas gráficas. El teléfono ni se enteraba."
+ },
+ "2.2_b.mp3": {
+  "id": "2.2",
+  "duracion": 50.85,
+  "fin_ultima_palabra": 50.74,
+  "parecido_texto": 0.993,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "La técnica clásica se llamaba extracción física. El perito conectaba el teléfono por el cable y lo arrancaba con un programa propio distinto del sistema operativo normal. Ese programa le ordenaba al teléfono leer su memoria de principio a fin y mandarla por el cable. El resultado era una copia exacta bit por bit del chip completo. La copia incluía también lo que el usuario había borrado. Eso pasa porque borrar un archivo casi nunca destruye sus datos. El sistema solo marca ese espacio como libre y los datos siguen ahí hasta que algo nuevo lo sobrescribe. En los teléfonos de esa época, la memoria no estaba cifrada o estaba cifrada con una clave que se podía sacar del propio teléfono. Con la copia en una computadora del laboratorio, el perito podía probar millones de contraseñas por segundo con tarjetas gráficas. El teléfono ni se enteraba."
+ },
+ "2.3_a.mp3": {
+  "id": "2.3",
+  "duracion": 31.07,
+  "fin_ultima_palabra": 30.88,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Esa técnica murió por culpa de un chip. En 2013, con el iPhone 5S, Apple metió dentro de su procesador principal un segundo procesador más pequeño y aislado. Ese segundo procesador tiene su propia memoria y su propio sistema. Apple lo llamó Secure Enclave. El procesador principal, el que corre iOS y tus apps, no puede ver lo que hay adentro. Solo puede mandarle preguntas y recibir respuestas. Google hizo algo parecido en 2018 con el chip Titan M de sus teléfonos Pixel."
+ },
+ "2.3_b.mp3": {
+  "id": "2.3",
+  "duracion": 30.23,
+  "fin_ultima_palabra": 30.0,
+  "parecido_texto": 0.969,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Esa técnica murió por culpa de un chip. En 2013, con el iPhone 5S, Apple metió dentro de su procesador principal un segundo procesador, más pequeño y aislado. Ese segundo procesador tiene su propia memoria y su propio sistema. Apple lo llamó Secure Enclave. El procesador principal, el que corre iOS y tus APS, no puede ver lo que hay adentro. Solo puede mandarle preguntas y recibir respuestas. Google hizo algo parecido en 2018 con el chip Titanium de sus teléfonos Pixel."
+ },
+ "2.4_a.mp3": {
+  "id": "2.4",
+  "duracion": 18.48,
+  "fin_ultima_palabra": 18.28,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Durante la fabricación, a cada chip se le graba un número aleatorio que funciona como clave. Apple la llama UID. Esa clave queda físicamente dentro del silicio. Ningún programa la puede leer, ni siquiera los programas de Apple. El chip solo la usa por dentro para cifrar y descifrar."
+ },
+ "2.4_b.mp3": {
+  "id": "2.4",
+  "duracion": 17.23,
+  "fin_ultima_palabra": 17.12,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Durante la fabricación, a cada chip se le graba un número aleatorio que funciona como clave. Apple la llama UID. Esa clave queda físicamente dentro del silicio. Ningún programa la puede leer, ni siquiera los programas de Apple. El chip solo la usa por dentro, para cifrar y descifrar."
+ },
+ "2.5_a.mp3": {
+  "id": "2.5",
+  "duracion": 24.66,
+  "fin_ultima_palabra": 24.48,
+  "parecido_texto": 0.968,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Cuando escribes tu contraseña, el teléfono no la compara con una copia guardada en algún lado. Hace algo más astuto. Mete la contraseña al chip y el chip la mezcla con su EUID usando un algoritmo descifrado. El resultado de esa mezcla es la clave que abre tus archivos. Si la contraseña es correcta, sale la clave correcta y los archivos se abren. Si la contraseña es incorrecta, sale una clave equivocada y los archivos siguen siendo ruido."
+ },
+ "2.5_b.mp3": {
+  "id": "2.5",
+  "duracion": 24.29,
+  "fin_ultima_palabra": 24.14,
+  "parecido_texto": 0.981,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Cuando escribes tu contraseña, el teléfono no la compara con una copia guardada en algún lado. Hace algo más astuto. Mete la contraseña al chip y el chip la mezcla con su UID usando un algoritmo descifrado. El resultado de esa mezcla es la clave que abre tus archivos. Si la contraseña es correcta, sale la clave correcta y los archivos se abren. Si la contraseña es incorrecta, sale una clave equivocada y los archivos siguen siendo ruido."
+ },
+ "2.6_a.mp3": {
+  "id": "2.6",
+  "duracion": 31.21,
+  "fin_ultima_palabra": 31.06,
+  "parecido_texto": 0.994,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Apple ajustó esa mezcla para que se repita muchas veces a propósito, así cada intento tarda unos 80 milisegundos. Para una persona eso no es nada, para una máquina que quiere probar todas las combinaciones es un freno. Una contraseña de 4 dígitos tiene 10 mil combinaciones, probarlas todas toma unos 13 minutos, una de 6 dígitos tiene un millón, probarlas todas toma unas 22 horas. Según Apple una contraseña de 6 caracteres con letras minúsculas y números tomaría más de cinco años y medio."
+ },
+ "2.6_b.mp3": {
+  "id": "2.6",
+  "duracion": 29.95,
+  "fin_ultima_palabra": 29.8,
+  "parecido_texto": 0.962,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "A Paul ajustó esa mezcla para que se repita muchas veces a propósito, así cada intento tarda unos 80 milisegundos. Para una persona eso no es nada, para una máquina que quiere probar todas las combinaciones es un freno. Una contraseña de 4 dígitos tiene 10.000 combinaciones, probarlas todas toma unos 13 minutos. Una de 6 dígitos tiene un millón, probarlas todas toma unas 22 horas. Según a Paul una contraseña de 6 caracteres con letras minúsculas y números tomaría más de cinco años y medio."
+ },
+ "2.7_a.mp3": {
+  "id": "2.7",
+  "duracion": 16.07,
+  "fin_ultima_palabra": 15.96,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Ahora viene la consecuencia, el UID nunca sale del chip, entonces la copia bit por bit ya no sirve de nada, en la computadora del laboratorio solo hay datos cifrados y no hay forma de hacer la mezcla fuera del teléfono, cada intento tiene que pasar por ese chip en ese teléfono."
+ },
+ "2.7_b.mp3": {
+  "id": "2.7",
+  "duracion": 17.46,
+  "fin_ultima_palabra": 17.34,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Ahora viene la consecuencia, el UID nunca sale del chip, entonces la copia bit por bit ya no sirve de nada. En la computadora del laboratorio solo hay datos cifrados y no hay forma de hacer la mezcla fuera del teléfono. Cada intento tiene que pasar por ese chip en ese teléfono."
+ },
+ "2.8_a.mp3": {
+  "id": "2.8",
+  "duracion": 26.24,
+  "fin_ultima_palabra": 26.08,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Y el chip también lleva la cuenta de los errores. Del primero al tercero no pasa nada. Al cuarto el teléfono te hace esperar un minuto. Al quinto, cinco minutos. Al sexto, quince minutos. Al séptimo, una hora. Al octavo, tres horas. Al noveno, ocho horas. Al décimo el teléfono se bloquea por completo. Reiniciarlo no borra la cuenta porque la cuenta la guarda el chip. Y si el dueño activó la opción, al décimo error el teléfono borra todo."
+ },
+ "2.8_b.mp3": {
+  "id": "2.8",
+  "duracion": 25.54,
+  "fin_ultima_palabra": 25.38,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Y el chip también lleva la cuenta de los errores. Del primero al tercero no pasa nada. Al cuarto el teléfono te hace esperar un minuto. Al quinto, cinco minutos. Al sexto, quince minutos. Al séptimo, una hora. Al octavo, tres horas. Al noveno, ocho horas. Al décimo el teléfono se bloquea por completo. Reiniciarlo no borra la cuenta porque la cuenta la guarda el chip. Y si el dueño activó la opción, al décimo error el teléfono borra todo."
+ },
+ "2.9_a.mp3": {
+  "id": "2.9",
+  "duracion": 25.91,
+  "fin_ultima_palabra": 25.78,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Android resolvió el mismo problema con otra idea. El cifrado basado en archivos que se conoce por sus siglas en inglés FBE llegó con Android 7 en 2016 y desde Android 10 es obligatorio en todo teléfono nuevo. Antes Android cifraba la memoria completa con una sola clave. Eso causaba un problema práctico. Si el teléfono se reiniciaba de noche, la alarma no sonaba ni entraban llamadas hasta que alguien escribía la contraseña."
+ },
+ "2.9_b.mp3": {
+  "id": "2.9",
+  "duracion": 26.52,
+  "fin_ultima_palabra": 26.34,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Android resolvió el mismo problema con otra idea. El cifrado basado en archivos que se conoce por sus siglas en inglés FBE llegó con Android 7 en 2016 y desde Android 10 es obligatorio en todo teléfono nuevo. Antes, Android cifraba la memoria completa con una sola clave, eso causaba un problema práctico. Si el teléfono se reiniciaba de noche, la alarma no sonaba ni entraban llamadas hasta que alguien escribía la contraseña."
+ },
+ "3.0_a.mp3": {
+  "id": "3.0",
+  "duracion": 24.29,
+  "fin_ultima_palabra": 24.18,
+  "parecido_texto": 0.958,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "San Bernardino, California, 2 de diciembre de 2015. Said Rizwan Farouk y su esposa, Tashfin Malik, entran armados a una fiesta de fin de año de los compañeros de trabajo de él. Matan a 14 personas. Horas después, los dos mueren en un tiroteo con la policía. Entre lo que dejan hay un iPhone 5C. El teléfono era del condado, que se lo daba a Farouk para trabajar. Cuando el FBI lo recoge, está apagado."
+ },
+ "3.0_b.mp3": {
+  "id": "3.0",
+  "duracion": 25.26,
+  "fin_ultima_palabra": 25.16,
+  "parecido_texto": 0.958,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "San Bernardino, California, 2 de diciembre de 2015. Said Rizwan Farouk y su esposa Tashfin Malik entran armados a una fiesta de fin de año de los compañeros de trabajo de él. Matan a 14 personas. Horas después, los dos mueren en un tiroteo con la policía. Entre lo que dejan, hay un iPhone 5C. El teléfono era del condado que se lo daba a Farouk para trabajar. Cuando el FBI lo recoge, está apagado."
+ },
+ "3.1_a.mp3": {
+  "id": "3.1",
+  "duracion": 73.24,
+  "fin_ultima_palabra": 73.2,
+  "parecido_texto": 0.982,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Cuatro días después del ataque, a pedido del FBI, un técnico del condado cambia la contraseña de la cuenta de iCloud del teléfono. Querían entrar a los respaldos en la nube. El último respaldo era del 19 de octubre, casi siete semanas antes del ataque. Para entender por qué ese cambio importó, hay que saber cómo funciona el respaldo automático. Un iPhone se respalda solo cuando se cumplen tres condiciones al mismo tiempo. Está conectado a la corriente, está conectado a una red wifi y tiene la pantalla bloqueada. Para subir el respaldo, el teléfono se identifica ante iCloud con la sesión de la cuenta. Si alguien cambia la contraseña desde fuera, esa sesión deja de valer. Desde ese momento, el teléfono ya no puede subir nada hasta que alguien escriba la contraseña nueva en el propio teléfono. A Paul dijo después que ese cambio mató una oportunidad. Con la contraseña original, el teléfono quizás se habría respaldado solo al conectarlo a una red wifi conocida. El FBI respondió que eso nunca habría funcionado porque un iPhone recién encendido no se conecta a ninguna red wifi hasta que alguien escribe su contraseña. Además, Farouk había desactivado varios de sus respaldos."
+ },
+ "3.1_b.mp3": {
+  "id": "3.1",
+  "duracion": 72.86,
+  "fin_ultima_palabra": 72.78,
+  "parecido_texto": 0.98,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Cuatro días después del ataque, a pedido del FBI, un técnico del condado, cambia la contraseña de la cuenta de iCloud del teléfono. Querían entrar a los respaldos en la nube. El último respaldo era del 19 de octubre, casi siete semanas antes del ataque. Para entender por qué ese cambio importó, hay que saber cómo funciona el respaldo automático. Un iPhone se respalda solo cuando se cumplen tres condiciones al mismo tiempo. Está conectado a la corriente, está conectado a una red Wi-Fi y tiene la pantalla bloqueada. Para subir el respaldo, el teléfono se identifica ante iCloud con la sesión de la cuenta. Si alguien cambia la contraseña desde fuera, esa sesión deja de valer. Desde ese momento, el teléfono ya no puede subir nada hasta que alguien escriba la contraseña nueva en el propio teléfono. A Paul dijo después que ese cambio mató una oportunidad. Con la contraseña original, el teléfono quizá se habría respaldado solo al conectarlo a una red wifi conocida. El FBI respondió que eso nunca habría funcionado porque un iPhone recién encendido no se conecta a ninguna red wifi hasta que alguien escribe su contraseña. Además, Farouk había desactivado varios de sus respaldos."
+ },
+ "3.2_a.mp3": {
+  "id": "3.2",
+  "duracion": 32.93,
+  "fin_ultima_palabra": 32.76,
+  "parecido_texto": 0.984,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "En febrero de 2016, una jueza ordena a Apple crear una versión especial de AI OS para ese teléfono, sin borrado al décimo intento y sin esperas para probar contraseñas a máquina. Tim Cook, el director de Apple, publica una carta abierta. Dice que esa versión funcionaría como una llave maestra para cualquier iPhone. Apple se niega a obedecer. Un día antes de la audiencia, el FBI pide pausar el juicio. Dice que alguien le ofreció otra forma de entrar. Una semana después, retira la demanda y anuncia que ya abrió el teléfono. No dice cómo."
+ },
+ "3.2_b.mp3": {
+  "id": "3.2",
+  "duracion": 32.28,
+  "fin_ultima_palabra": 32.1,
+  "parecido_texto": 0.968,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "En febrero de 2016, una jueza ordena a Apple crear una versión especial de AI o es para ese teléfono, sin borrado al décimo intento y sin esperas para probar contraseñas a máquina. Tim Cook, el director de Apple, publica una carta abierta. Dice que esa versión funcionaría como una llave maestra para cualquier iPhone. Apple se niega para obedecer. Un día antes de la audiencia, el FBI pide pausar el juicio. Dice que alguien le ofreció Otra forma de entrar. Una semana después, retira la demanda y anuncia que ya abrió el teléfono. No dice cómo."
+ },
+ "3.3_a.mp3": {
+  "id": "3.3",
+  "duracion": 39.85,
+  "fin_ultima_palabra": 39.64,
+  "parecido_texto": 0.986,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Durante cinco años nadie supo quién lo hizo. En 2021, The Washington Post lo reveló a Simus, una empresa australiana pequeña que se dedicaba a encontrar fallas de seguridad y venderlas como herramientas a gobiernos. Para entender cómo entraron, hay que seguir el camino paso por paso. Primero, la puerta. Cuando conectas algo al puerto Lightning, el iPhone tiene que preguntarle al aparato qué es, un cargador, unos audífonos o una computadora. Esa conversación ocurre aunque el teléfono esté bloqueado porque si no, ni siquiera podrías cargarlo. Eso significa que hay un programa del iPhone que escucha lo que llega por el cable antes de que nadie escriba la contraseña."
+ },
+ "3.3_b.mp3": {
+  "id": "3.3",
+  "duracion": 40.91,
+  "fin_ultima_palabra": 40.68,
+  "parecido_texto": 0.991,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Durante cinco años, nadie supo quién lo hizo. En 2021, The Washington Post lo reveló. Asimus, una empresa australiana pequeña que se dedicaba a encontrar fallas de seguridad y venderlas como herramientas a gobiernos. Para entender cómo entraron, hay que seguir el camino paso por paso. Primero, la puerta. Cuando conectas algo al puerto Lightning, el iPhone tiene que preguntarle al aparato qué es. Un cargador, unos audífonos o una computadora. Esa conversación ocurre aunque el teléfono esté bloqueado porque si no ni siquiera podrías cargarlo. Eso significa que hay un programa del iPhone que escucha lo que llega por el cable antes de que nadie escriba la contraseña."
+ },
+ "3.4_a.mp3": {
+  "id": "3.4",
+  "duracion": 22.15,
+  "fin_ultima_palabra": 21.92,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Segundo, ¿de quién era ese programa? Las empresas casi nunca escriben todo desde cero. Reutilizan bibliotecas de código abierto, que son piezas de software públicas que cualquiera puede usar y leer. Según el post, Apple usaba una biblioteca escrita por Mozilla, la fundación que hace Firefox, para manejar esos accesorios. Si la biblioteca tiene un error, Apple hereda el error."
+ },
+ "3.4_b.mp3": {
+  "id": "3.4",
+  "duracion": 21.08,
+  "fin_ultima_palabra": 20.86,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Segundo, ¿de quién era ese programa? Las empresas casi nunca escriben todo desde cero. Reutilizan bibliotecas de código abierto, que son piezas de software públicas que cualquiera puede usar y leer. Según el post, Apple usaba una biblioteca escrita por Mozilla, la fundación que hace Firefox, para manejar esos accesorios. Si la biblioteca tiene un error, Apple hereda el error."
+ },
+ "3.5_a.mp3": {
+  "id": "3.5",
+  "duracion": 24.1,
+  "fin_ultima_palabra": 23.96,
+  "parecido_texto": 0.97,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Tercero, cómo se encontró. El fundador de Asimus, Mark Doud, tenía 41 años y se dedicaba a leer código ajeno buscando fallas. Como el código abierto es público, lo podía revisar línea por línea. Meses antes del tiroteo, encontró un error en esa biblioteca y lo guardó. El tipo exacto de error nunca se hizo público. Mozilla dijo después que no podía confirmar que su código estuviera involucrado."
+ },
+ "3.5_b.mp3": {
+  "id": "3.5",
+  "duracion": 23.36,
+  "fin_ultima_palabra": 23.22,
+  "parecido_texto": 0.97,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Tercero, ¿cómo se encontró? El fundador de Asimus, Mark Douth, tenía 41 años y se dedicaba a leer código ajeno buscando fallas. Como el código abierto es público, lo podía revisar línea por línea. Meses antes del tiroteo, encontró un error en esa biblioteca y lo guardó. El tipo exacto de error nunca se hizo público. Mozilla dijo después que no podía confirmar que su código estuviera involucrado."
+ },
+ "3.10_a.mp3": {
+  "id": "3.10",
+  "duracion": 28.47,
+  "fin_ultima_palabra": 28.38,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Hay un detalle del caso que hoy los peritos repiten como regla. El teléfono estaba apagado. Para entender por qué importa, hay que saber qué hace el teléfono la primera vez que lo desbloqueas después de encenderlo. Con esa primera contraseña, el chip calcula las claves de tus archivos y las deja cargadas en la memoria de trabajo. Así las apps pueden leer sus datos aunque después bloquees la pantalla. Si el teléfono no hiciera eso, tus mensajes no podrían llegar con la pantalla bloqueada."
+ },
+ "3.10_b.mp3": {
+  "id": "3.10",
+  "duracion": 27.35,
+  "fin_ultima_palabra": 27.26,
+  "parecido_texto": 0.988,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Hay un detalle del caso que hoy los peritos repiten como regla. El teléfono estaba apagado. Para entender por qué importa, hay que saber qué hace el teléfono la primera vez que lo desbloqueas después de encenderlo. Con esa primera contraseña, el chip calcula las claves de tus archivos y las deja cargadas en la memoria de trabajo. Así las APS pueden leer sus datos aunque después bloquees la pantalla. Si el teléfono no hiciera eso, tus mensajes no podrían llegar con la pantalla bloqueada."
+ },
+ "3.11_a.mp3": {
+  "id": "3.11",
+  "duracion": 45.09,
+  "fin_ultima_palabra": 44.96,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Por eso, un teléfono tiene dos estados. Un teléfono recién encendido que nadie ha desbloqueado está en BFU antes del primer desbloqueo. En BFU casi todas las claves siguen encerradas en el chip. Un teléfono que el dueño ya desbloqueó al menos una vez está en AFU después del primer desbloqueo. En AFU muchas claves siguen vivas en memoria y las herramientas forenses tienen mucho más por donde entrar. Al apagar el teléfono, esas claves se borran de la memoria y el teléfono regresa a BFU. Por eso la policía no apaga un teléfono incautado. Lo guarda encendido, conectado al cargador y dentro de una bolsa de Faraday. Una bolsa forrada de metal que bloquea la señal. La bolsa evita que alguien borre el teléfono a distancia."
+ },
+ "3.11_b.mp3": {
+  "id": "3.11",
+  "duracion": 43.42,
+  "fin_ultima_palabra": 43.3,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Por eso, un teléfono tiene dos estados. Un teléfono recién encendido que nadie ha desbloqueado está en BFU antes del primer desbloqueo. En BFU, casi todas las claves siguen encerradas en el chip. Un teléfono que el dueño ya desbloqueó al menos una vez está en AFU después del primer desbloqueo. En AFU, muchas claves siguen vivas en memoria y las herramientas forenses tienen mucho más por dónde entrar. Al apagar el teléfono, esas claves se borran de la memoria y el teléfono regresa a BFU, por eso la policía no apaga un teléfono incautado, lo guarda encendido, conectado al cargador y dentro de una bolsa de Faraday, una bolsa forrada de metal que bloquea la señal. La bolsa evita que alguien borre el teléfono a distancia."
+ },
+ "3.12_a.mp3": {
+  "id": "3.12",
+  "duracion": 58.0,
+  "fin_ultima_palabra": 57.84,
+  "parecido_texto": 0.976,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Y la pelea sigue. En noviembre de 2024, policías de Detroit mandaron una carta a otras corporaciones. Los iPhones guardados como evidencia se estaban reiniciando solos y al reiniciarse volvían a BFU. Sospechaban que los teléfonos se mandaban una señal inalámbrica entre ellos para reiniciarse. La investigadora Jiska Klassen decidió averiguarlo en tres pasos. Primero buscó palabras nuevas dentro del código de iOS y encontró una inactivity-reboot-reinicio por inactividad que aparecía por primera vez en iOS 18.1. Después dejó un iPhone de pruebas sin tocar conectado a wifi y a las 72 horas exactas se reinició. Al final abrió el software del propio Secure Enclave y encontró el contador. El chip mide cuánto tiempo pasa sin que el teléfono se desbloquee. Al llegar a tres días, le avisa al sistema que se reinicie. No había ninguna señal entre teléfonos. A Paul lo había agregado sin anunciarlo."
+ },
+ "3.12_b.mp3": {
+  "id": "3.12",
+  "duracion": 56.94,
+  "fin_ultima_palabra": 56.78,
+  "parecido_texto": 0.959,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Y la pelea sigue. En noviembre de 2024, policías de Detroit mandaron una carta a otras corporaciones. Los iPhone guardados como evidencia se estaban reiniciando solos y al reiniciarse volvían a BFU. Sospechaban que los teléfonos se mandaban una señal inalámbrica entre ellos para reiniciarse. La investigadora Yiska Klassen decidió averiguarlo en tres pasos. Primero buscó palabras nuevas dentro del código de IOS y encontró una Inactivity Reboot, reinicio por inactividad, que aparecía por primera vez en IOS 18.1. Después dejó un iPhone de prueba sin tocar, conectado a Wi-Fi y a las 72 horas exactas se reinició. Al final abrió el software del propio Secure Enclave y encontró el contador. El chip mide cuánto tiempo pasa sin que el teléfono se desbloquee. Al llegar a tres días, le avisa al sistema que se reinicie. No había ninguna señal entre teléfonos. A Paul lo había agregado sin anunciarlo."
+ },
+ "3.13_a.mp3": {
+  "id": "3.13",
+  "duracion": 25.4,
+  "fin_ultima_palabra": 25.28,
+  "parecido_texto": 0.961,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Del otro lado también hay armas y la más famosa está grabada en el silicio. Cuando enciendes un iPhone, lo primero que corre no es hay o es. Es un programa diminuto llamado Butron que viene grabado en el chip desde la fábrica y no se puede modificar. Su trabajo es revisar que el siguiente programa en arrancar tenga la firma de Apple. Solo entonces le pasa el control. Es el primer eslabón de una cadena de confianza."
+ },
+ "3.13_b.mp3": {
+  "id": "3.13",
+  "duracion": 23.08,
+  "fin_ultima_palabra": 22.94,
+  "parecido_texto": 0.974,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Del otro lado también hay armas, y la más famosa está grabada en el silicio. Cuando enciendes un iPhone, lo primero que corre no es ahí, o es. Es un programa diminuto llamado Butrom, que viene grabado en el chip desde la fábrica y no se puede modificar. Su trabajo es revisar que el siguiente programa en arrancar tenga la firma de Apple. Solo entonces le pasa el control, es el primer eslabón de una cadena de confianza."
+ },
+ "3.14_a.mp3": {
+  "id": "3.14",
+  "duracion": 37.15,
+  "fin_ultima_palabra": 36.9,
+  "parecido_texto": 0.929,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "En 2019, un investigador con el seudónimo AxiomX publicó CheckMate, un error dentro de esa Butrom. El error está en la parte que atiende el cable USB cuando el teléfono arranca en modo de recuperación. Como la Butrom no se puede reescribir, ninguna actualización lo corrige. Afecta a todos los iPhone del 4S al 10. Con CheckMate, una herramienta forense puede arrancar el teléfono con su propio software y sacar el sistema de archivos. Lo que CheckMate no puede hacer es saltarse el Secure Enclave. En los modelos que lo tienen, la contraseña sigue protegiendo los datos más importantes."
+ },
+ "3.14_b.mp3": {
+  "id": "3.14",
+  "duracion": 36.55,
+  "fin_ultima_palabra": 36.36,
+  "parecido_texto": 0.918,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "En 2019, un investigador con el seudónimo ACCOMX publicó CheckMate un error dentro de esa Butrom. El error está en la parte que atiende el cable USB cuando el teléfono arranca en modo de recuperación. Como la Butrom no se puede reescribir, ninguna actualización lo corrige. Afecta a todos los iPhones del 4S al 10. Con CheckMate, una herramienta forense, puede arrancar el teléfono con su propio software y sacar el sistema de archivos. lo que Checkmate no puede hacer es saltarse el Secure Enclave. En los modelos que lo tienen, la contraseña sigue protegiendo los datos más importantes."
+ },
+ "3.6_a.mp3": {
+  "id": "3.6",
+  "duracion": 37.06,
+  "fin_ultima_palabra": 36.94,
+  "parecido_texto": 0.971,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Cuarto, la cadena. Un solo error casi nunca basta, porque el iPhone separa sus programas en compartimentos con permisos distintos. David Wan, colega de Dowd, dejó la universidad de Yale y a los 27 años ya había ganado un premio por hackear un iPhone. Wan usó el error de Mozilla para meter un pie, ejecutar su propio código dentro del programa que atiende los accesorios. Con un segundo error, ese código salió del compartimento y ganó más permisos. Un tercer error que otro investigador de Asimus ya había construido le dio el control total del procesador principal. A la cadena completa le pusieron un nombre, Condor."
+ },
+ "3.6_b.mp3": {
+  "id": "3.6",
+  "duracion": 37.85,
+  "fin_ultima_palabra": 37.76,
+  "parecido_texto": 0.981,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Cuarto, la cadena. Un solo error casi nunca basta, porque el iPhone separa sus programas en compartimentos con permisos distintos. David Wang, colega de Daud, dejó la universidad de Yale y a los 27 años ya había ganado un premio por hackear un iPhone. Wang usó el error de Mozilla para meter un pie, ejecutar su propio código dentro del programa que atiende los accesorios. Con un segundo error, ese código salió del compartimento y ganó más permisos. Un tercer error que otro investigador de Asimus ya había construido le dio el control total del procesador principal. A la cadena completa le pusieron un nombre Condor."
+ },
+ "3.7_a.mp3": {
+  "id": "3.7",
+  "duracion": 14.77,
+  "fin_ultima_palabra": 14.54,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "quinto la fuerza bruta con el procesador bajo su control montaron un programa que probaba contraseñas una tras otra y desactivaba el borrado al décimo intento lo probaron en una docena de iphone 5c algunos comprados en ebay funcionó en todos"
+ },
+ "3.7_b.mp3": {
+  "id": "3.7",
+  "duracion": 14.77,
+  "fin_ultima_palabra": 14.56,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Quinto, la fuerza bruta. Con el procesador bajo su control, montaron un programa que probaba contraseñas una tras otra y desactivaba el borrado al décimo intento. Lo probaron en una docena de iPhone 5C, algunos comprados en eBay. Funcionó en todos."
+ },
+ "3.8_a.mp3": {
+  "id": "3.8",
+  "duracion": 37.06,
+  "fin_ultima_palabra": 36.8,
+  "parecido_texto": 0.946,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Todo esto funcionó por un detalle de Yardware. El iPhone 5C salió en 2013 junto con el 5S, pero por dentro usaba un procesador anterior, sin Secure Enclave. En ese modelo, la cuenta de errores y el borrado al décimo intento los controlaba IOS, el sistema operativo, y quien controla el procesador controla IOS. Lo que Asimus no pudo quitar fue la mezcla con el UID, porque esa mezcla ocurre en el Yardware. Cada intento seguía tardando unos 80 milisegundos con una contraseña de cuatro dígitos, esos son minutos, con una de seis son horas."
+ },
+ "3.8_b.mp3": {
+  "id": "3.8",
+  "duracion": 37.57,
+  "fin_ultima_palabra": 37.42,
+  "parecido_texto": 0.967,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Todo esto funcionó por un detalle de hardware. El iPhone 5C salió en 2013 junto con el 5S, pero por dentro usaba un procesador anterior sin Secure Enclave. En ese modelo, la cuenta de errores y el borrado al décimo intento los controlaba IOS, el sistema operativo. Y quien controla el procesador controla IOS. Lo que Asimus no pudo quitar fue la mezcla con el UID, porque esa mezcla ocurre en el hardware. Cada intento seguía tardando unos 80 milisegundos con una contraseña de cuatro dígitos, esos son minutos, con una de seis son horas."
+ },
+ "3.9_a.mp3": {
+  "id": "3.9",
+  "duracion": 27.26,
+  "fin_ultima_palabra": 27.0,
+  "parecido_texto": 0.934,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "el FB y pagó unos 900.000 dólares. Dentro del teléfono no encontraron nada útil. Mozilla corrigió el error un mes después, sin saber nunca para qué se había usado. Apola prendió de esa puerta. En 2018 agregó el modo USB restringido. Si el iPhone pasa una hora bloqueado, el puerto deja de intercambiar datos y solo sirve para cargar. El objetivo eran las cajas de desbloqueo que usaba la policía como gray key que entraban justamente por el cable."
+ },
+ "3.9_b.mp3": {
+  "id": "3.9",
+  "duracion": 27.4,
+  "fin_ultima_palabra": 27.18,
+  "parecido_texto": 0.967,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "el FB y pagó unos 900.000 dólares. Dentro del teléfono no encontraron nada útil. Mozilla corrigió el error un mes después, sin saber nunca para qué se había usado. Apple aprendió de esa puerta. En 2018, agregó el modo USB restringido. Si el iPhone pasa una hora bloqueado, el puerto deja de intercambiar datos y solo sirve para cargar. El objetivo eran las cajas de desbloqueo que usaba la policía, como GreyKey, que entraban justamente por el cable."
+ },
+ "4.0_a.mp3": {
+  "id": "4.0",
+  "duracion": 19.23,
+  "fin_ultima_palabra": 19.12,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "De vuelta en Friburgo, la policía contrata a una empresa de Munich para entrar al iPhone de Javari. El nombre de esa empresa nunca se hizo público. Lo que sí se sabe es que lo logró. Dentro del teléfono, lo más valioso no estaba en los mensajes ni en las fotos. Estaba en una app que casi nadie abre. Salud la app de Apple que cuenta pasos."
+ },
+ "4.0_b.mp3": {
+  "id": "4.0",
+  "duracion": 19.18,
+  "fin_ultima_palabra": 19.04,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "De vuelta en Friburgo, la policía contrata a una empresa de Munich para entrar al iPhone de Javari. El nombre de esa empresa nunca se hizo público. Lo que sí se sabe es que lo logró. Dentro del teléfono, lo más valioso no estaba en los mensajes ni en las fotos. Estaba en una app que casi nadie abre. Salud la app de Apple que cuenta pasos."
+ },
+ "4.1_a.mp3": {
+  "id": "4.1",
+  "duracion": 26.98,
+  "fin_ultima_palabra": 26.86,
+  "parecido_texto": 0.987,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Esa app funciona sola y para entenderla hay que ver qué sensores hay dentro del teléfono. Desde el iPhone 5S hay un procesador pequeño dedicado al movimiento. Ese procesador trabaja todo el día y gasta muy poca batería. Su trabajo es leer el acelerómetro, una pieza microscópica con una masa diminuta que se mueve con cada sacudida del teléfono. Por el patrón de las sacudidas, el procesador distingues si caminas, corres o vas en bicicleta y cuenta cada paso."
+ },
+ "4.1_b.mp3": {
+  "id": "4.1",
+  "duracion": 27.77,
+  "fin_ultima_palabra": 27.62,
+  "parecido_texto": 0.987,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Esa app funciona sola y para entenderla hay que ver qué sensores hay dentro del teléfono. Desde el iPhone 5S hay un procesador pequeño dedicado al movimiento. Ese procesador trabaja todo el día y gasta muy poca batería. Su trabajo es leer el acelerómetro, una pieza microscópica con una masa diminuta que se mueve con cada sacudida del teléfono. Por el patrón de las sacudidas, el procesador distingues si caminas, corres o vas en bicicleta y cuenta cada paso."
+ },
+ "4.2_a.mp3": {
+  "id": "4.2",
+  "duracion": 38.36,
+  "fin_ultima_palabra": 38.18,
+  "parecido_texto": 0.97,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Desde el iPhone 6 el teléfono tiene además un varómetro que mide la presión del aire. El aire pesa y entre más alto estás, menos aire tienes encima. Cerca del suelo, subir un metro baja la presión unos 12 pascales. Es una diferencia minúscula, pero el varómetro la detecta cuando el teléfono nota que estás caminando y al mismo tiempo que la presión bajo lo equivalente a unos 3 metros lo anota como un piso de escaleras. nadie tiene que abrir la APB. Cada paso y cada piso se guardan con hora y minuto en una base de datos cifrada dentro del teléfono. Esa base de datos es justo lo que la empresa de Munich pudo leer al abrir el teléfono."
+ },
+ "4.2_b.mp3": {
+  "id": "4.2",
+  "duracion": 38.87,
+  "fin_ultima_palabra": 38.76,
+  "parecido_texto": 0.979,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Desde el iPhone 6, el teléfono tiene además un varómetro que mide la presión del aire. El aire pesa y entre más alto estás, menos aire tienes encima. Cerca del suelo, subir un metro baja la presión unos 12 pascales. Es una diferencia minúscula, pero el varómetro la detecta. Cuando el teléfono nota que estás caminando y al mismo tiempo que la presión bajó lo equivalente a unos 3 metros, lo anota como un piso de escaleras. Nadie tiene que abrir la app. Cada paso y cada piso se guardan con hora y minuto en una base de datos cifrada dentro del teléfono. Esa base de datos es justo lo que la empresa de Munich pudo leer al abrir el teléfono."
+ },
+ "4.3_a.mp3": {
+  "id": "4.3",
+  "duracion": 23.68,
+  "fin_ultima_palabra": 23.5,
+  "parecido_texto": 0.984,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Cuando los peritos revisan la madrugada del 16 de octubre, encuentran movimiento a la hora del crimen. Y dentro de ese movimiento hay un tramo que la AP registró como subir escaleras. En esa orilla del río no hay escaleras. Los investigadores lo interpretan así. Es el momento en que él arrastró a María por la pendiente hasta el agua y después volvió a subir."
+ },
+ "4.3_b.mp3": {
+  "id": "4.3",
+  "duracion": 23.55,
+  "fin_ultima_palabra": 23.32,
+  "parecido_texto": 0.984,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Cuando los peritos revisan la madrugada del 16 de octubre, encuentra movimiento a la hora del crimen y dentro de ese movimiento hay un tramo que la app registró como subir escaleras. En esa orilla del río no hay escaleras. Los investigadores lo interpretan así. Es el momento en que él arrastró a María por la pendiente hasta el agua y después volvió a subir."
+ },
+ "4.4_a.mp3": {
+  "id": "4.4",
+  "duracion": 19.92,
+  "fin_ultima_palabra": 19.78,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Una interpretación no basta en un juicio, así que un investigador de la policía de Friburgo fue a esa misma orilla con un iPhone en el bolsillo. Bajó la pendiente y la volvió a subir. La app de su teléfono registró lo mismo, subir escaleras. Esos datos se describieron como una prueba crucial para reconstruir los movimientos del acusado."
+ },
+ "4.4_b.mp3": {
+  "id": "4.4",
+  "duracion": 19.74,
+  "fin_ultima_palabra": 19.62,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Una interpretación no basta en un juicio, así que un investigador de la policía de Friburgo fue a esa misma orilla con un iPhone en el bolsillo, bajó la pendiente y la volvió a subir. La app de su teléfono registró lo mismo, subir escaleras. Esos datos se describieron como una prueba crucial para reconstruir los movimientos del acusado."
+ },
+ "4.5_a.mp3": {
+  "id": "4.5",
+  "duracion": 18.81,
+  "fin_ultima_palabra": 18.62,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El juicio empezó en septiembre de 2017 y ahí salió todo lo demás. Primero, su edad. Javari había dicho que tenía 16 años. Un examen médico de febrero de 2017 concluyó que tenía por lo menos 22. En el juicio, admitió que había mentido y un dentista forense calculó que tenía unos 25."
+ },
+ "4.5_b.mp3": {
+  "id": "4.5",
+  "duracion": 19.04,
+  "fin_ultima_palabra": 18.78,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El juicio empezó en septiembre de 2017 y ahí salió todo lo demás. Primero, su edad. Javari había dicho que tenía 16 años. Un examen médico de febrero de 2017 concluyó que tenía por lo menos 22. En el juicio admitió que había mentido y un dentista forense calculó que tenía unos 25."
+ },
+ "4.6_a.mp3": {
+  "id": "4.6",
+  "duracion": 36.5,
+  "fin_ultima_palabra": 36.4,
+  "parecido_texto": 0.98,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Después, Grecia. En 2013, en la isla de Corfú, Jabari asaltó a un estudiante de 20 años y la arrojó por un acantilado. Ella sobrevivió con heridas graves. Lo condenaron a 10 años de prisión. Salió libre al año y medio gracias a una amnistía para delincuentes juveniles, rompió su libertad condicional y se fue a Alemania. Grecia nunca pidió su búsqueda internacional. Y aquí está el dato que duele en un video sobre evidencia digital. Sus huellas dactilares estaban en Eurodac, la base de datos europea de solicitantes de asilo desde 2013. El dato existía, nadie lo cruzó con su historial en Grecia."
+ },
+ "4.6_b.mp3": {
+  "id": "4.6",
+  "duracion": 37.24,
+  "fin_ultima_palabra": 37.12,
+  "parecido_texto": 0.99,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Después, Grecia. En 2013, en la isla de Corfú, Jabari asaltó a una estudiante de 20 años y la arrojó por un acantilado. Ella sobrevivió con heridas graves. Lo condenaron a 10 años de prisión. Salió libre al año y medio gracias a una amnistía para delincuentes juveniles, rompió su libertad condicional y se fue a Alemania. Grecia nunca pidió su búsqueda internacional. Y aquí está el dato que duele en un video sobre evidencia digital. Sus huellas dactilares estaban en Eurodac, la base de datos europea de solicitantes de asilo desde 2013. El dato existía. Nadie lo cruzó con su historial en Grecia."
+ },
+ "4.7_a.mp3": {
+  "id": "4.7",
+  "duracion": 33.48,
+  "fin_ultima_palabra": 33.38,
+  "parecido_texto": 0.973,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El caso partió a Alemania en dos. El noticiero más visto del país, el Taweshaw, no reportó el arresto el primer día y dijo que era una noticia regional. Lo acusaron de esconder el caso. El partido anti inmigración AFD lo usó como prueba de sus advertencias. Angela Merkel declaró que, si el culpable era un refugiado afgano, debía ser condenado como cualquier otro asesino. El 22 de marzo de 2018, el Tribunal de Friburgo lo juzgó como adulto. lo condenó por violación agravada y asesinato a cadena perpetua con detención preventiva después de cumplirla."
+ },
+ "4.7_b.mp3": {
+  "id": "4.7",
+  "duracion": 36.08,
+  "fin_ultima_palabra": 36.0,
+  "parecido_texto": 0.951,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El caso partió de Alemania en dos. El noticiero más visto del país, el Tagueshaw, no reportó el arresto el primer día y dijo que era una noticia regional. Lo acusaron de esconder el caso. El partido anti-inmigración, AFD, lo usó como prueba de sus advertencias. Anguela Merkel declaró que, si el culpable era un refugiado afgano, debía ser condenado como cualquier otro asesino. El 22 de marzo de 2018, el Tribunal de Friburgo lo juzgó como adulto. lo condenó por violación agravada y asesinato a cadena perpetua con detención preventiva después de cumplirla."
+ },
+ "5.0_a.mp3": {
+  "id": "5.0",
+  "duracion": 38.59,
+  "fin_ultima_palabra": 38.42,
+  "parecido_texto": 0.976,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El iPhone de Friburgo funcionó como sensor sin que su dueño lo supiera. Ahora cambiemos un teléfono por una casa entera llena de sensores. Ellington, Connecticut, Estados Unidos. 23 de diciembre de 2015, dos días antes de Navidad. Poco después de las 10 de la mañana, el sistema de seguridad de la casa de la familia Davate lanza una alarma de pánico. Cuando llega la policía, encuentra a Richard Davate en el piso de la cocina. Tiene la muñeca derecha amarrada a una silla plegable y los tobillos sujetos a la misma silla con cinchos de plástico. En el sótano está su esposa, Connie, muerta de un disparo."
+ },
+ "5.0_b.mp3": {
+  "id": "5.0",
+  "duracion": 35.16,
+  "fin_ultima_palabra": 34.96,
+  "parecido_texto": 0.976,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El iPhone de Friburgo funcionó como sensor sin que su dueño lo supiera. Ahora cambiemos un teléfono por una casa entera llena de sensores. Ellington, Connecticut, Estados Unidos, 23 de diciembre de 2015, dos días antes de Navidad. Poco después de las 10 de la mañana, el sistema de seguridad de la casa de la familia Davate lanza una alarma de pánico. Cuando llega la policía, encuentra a Richard Davate en el piso de la cocina. tiene la muñeca derecha amarrada a una silla plegable y los tobillos sujetos a la misma silla con cinchos de plástico. En el sótano está su esposa, Connie, muerta de un disparo."
+ },
+ "5.1_a.mp3": {
+  "id": "5.1",
+  "duracion": 22.2,
+  "fin_ultima_palabra": 22.0,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Richard cuenta su versión. Esa mañana dejó a sus hijos en la parada del autobús escolar y salió hacia el trabajo. En el camino le llegó al teléfono una alerta de la alarma de su casa. Se orilló, le mandó un correo a su jefe para avisar que llegaría tarde y regresó. Arriba encontró a un intruso, un hombre grande con máscara y traje de camuflaje con una voz parecida a la del actor Vin Diesel."
+ },
+ "5.1_b.mp3": {
+  "id": "5.1",
+  "duracion": 23.17,
+  "fin_ultima_palabra": 23.0,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Richard cuenta su versión. Esa mañana dejó a sus hijos en la parada del autobús escolar y salió hacia el trabajo. En el camino le llegó al teléfono una alerta de la alarma de su casa. Se orilló, le mandó un correo a su jefe para avisar que llegaría tarde y regresó. Arriba encontró a un intruso, un hombre grande con máscara y traje de camuflaje, con una voz parecida a la del actor Vin Diesel."
+ },
+ "5.2_a.mp3": {
+  "id": "5.2",
+  "duracion": 17.23,
+  "fin_ultima_palabra": 17.06,
+  "parecido_texto": 0.992,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "En ese momento, Connie volvió del gimnasio. Según Richard, el intruso la persiguió hasta el sótano y le disparó más o menos a las 9 de la mañana. Después lo apuñaló a él y lo quemó con un soplete. Richard dice que en el forcejeo agarró el soplete, se quemó su propia cara y así logró que el intruso huyera."
+ },
+ "5.2_b.mp3": {
+  "id": "5.2",
+  "duracion": 17.65,
+  "fin_ultima_palabra": 17.48,
+  "parecido_texto": 0.992,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "En ese momento, Connie volvió del gimnasio. Según Richard, el intruso la persiguió hasta el sótano y le disparó más o menos a las 9 de la mañana. Después lo apuñaló a él y lo quemó con un soplete. Richard dice que en el forcejeo agarró el soplete, se quemó su propia cara y así logró que el intruso huyera."
+ },
+ "5.3_a.mp3": {
+  "id": "5.3",
+  "duracion": 38.17,
+  "fin_ultima_palabra": 37.96,
+  "parecido_texto": 0.974,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Los investigadores notan cosas raras. Las heridas de Richard no lo dejaban incapacitado y podían ser autoinfligidas. Richard tenía problemas de dinero. Tenía una amante, cera gáncer, y ella estaba embarazada de unas 10 semanas. Primero dijo que era una madre sustituta. Después admitió que era una amiga de la preparatoria. Cinco días después del asesinato, intentó cobrar un seguro de vida de 475.000 dólares. Todo eso es sospechoso. Ninguna de esas cosas prueba un asesinato. Para eso, los investigadores tenían que reconstruir lo que pasó dentro de la casa minuto a minuto. Y la casa lo había registrado."
+ },
+ "5.3_b.mp3": {
+  "id": "5.3",
+  "duracion": 37.52,
+  "fin_ultima_palabra": 37.38,
+  "parecido_texto": 0.985,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Los investigadores notan cosas raras. Las heridas de Richard no lo dejaban incapacitado y podían ser autoinfligidas. Richard tenía problemas de dinero. Tenía una amante, Sarah Ganser, y ella estaba embarazada de unas 10 semanas. Primero dijo que era una madre sustituta. Después admitió que era una amiga de la preparatoria. Cinco días después del asesinato, intentó cobrar un seguro de vida de 475.000 dólares. Todo eso es sospechoso. Ninguna de esas cosas prueba un asesinato. Para eso los investigadores tenían que reconstruir lo que pasó dentro de la casa minuto a minuto y la casa lo había registrado."
+ },
+ "6.0_a.mp3": {
+  "id": "6.0",
+  "duracion": 42.4,
+  "fin_ultima_palabra": 42.24,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Empecemos por el correo y por una pieza que casi nadie entiende, la dirección IP. Cada casa con internet recibe de su compañía un número que la identifica en la red como una dirección postal. Todos los aparatos de la casa salen a internet a través del mismo modem y todos usan ese mismo número. Cada servicio en línea como el correo, Facebook o el banco anota ese número cada vez que alguien inicia sesión o hace algo. Con una orden judicial, la policía le pide al servicio la lista de direcciones IP con sus horas. Después le pide a la compañía de internet a qué domicilio pertenecía ese número a esa hora. Así, una acción en internet queda amarrada a una casa."
+ },
+ "6.0_b.mp3": {
+  "id": "6.0",
+  "duracion": 39.57,
+  "fin_ultima_palabra": 39.38,
+  "parecido_texto": 0.992,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Empecemos por el correo y por una pieza que casi nadie entiende, la dirección IP. Cada casa con internet recibe de su compañía un número que la identifica en la red como una dirección postal. Todos los aparatos de la casa salen a internet a través del mismo modem y todos usan ese mismo número. Cada servicio en línea, como el correo, Facebook o el banco, anota ese número cada vez que alguien inicia sesión o hace algo. Con una orden judicial, la policía le pide al servicio la lista de direcciones IPE con sus horas. Después le pide a la compañía de internet a qué domicilio pertenecía ese número a esa hora, así una acción en internet queda amarrada a una casa."
+ },
+ "6.1_a.mp3": {
+  "id": "6.1",
+  "duracion": 28.7,
+  "fin_ultima_palabra": 28.48,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Richard dijo que le mandó el correo a su jefe desde la carretera con su teléfono. Los registros dicen otra cosa. A las 9.1 alguien inició sesión en una computadora de la casa. A las 9.4 salió el correo a su jefe desde esa computadora y desde la IP de la casa. A las 9.18 desde la misma computadora alguien revisó el horario de clases del gimnasio YMCA. Dos minutos después entró a la página de deportes ESPN."
+ },
+ "6.1_b.mp3": {
+  "id": "6.1",
+  "duracion": 27.12,
+  "fin_ultima_palabra": 26.86,
+  "parecido_texto": 0.931,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [
+   [
+    26.98,
+    27.1
+   ]
+  ],
+  "dicho": "Richard dijo que le mandó el correo a su jefe desde la carretera con su teléfono. Los registros dicen otra cosa. A las nueve con uno, alguien inició sesión en una computadora de la casa. A las nueve con cuatro, salió el correo a su jefe desde esa computadora y desde la IP de la casa. A las nueve dieciocho, desde la misma computadora, alguien revisó el horario de clases del gimnasio WAI MCA. Dos minutos después, entró a la página de deportes ESPN."
+ },
+ "6.2_a.mp3": {
+  "id": "6.2",
+  "duracion": 22.94,
+  "fin_ultima_palabra": 22.76,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Después, la alarma. Un sistema de alarma casero tiene un panel central y sensores en puertas y ventanas. Los sensores de puertas suelen ser interruptores magnéticos. Un imán va en la puerta y el interruptor en el marco. Cuando la puerta se abre, el imán se aleja y el circuito cambia. El panel anota cada cambio con su hora y en muchos sistemas lo manda a la central de la empresa de seguridad."
+ },
+ "6.2_b.mp3": {
+  "id": "6.2",
+  "duracion": 23.27,
+  "fin_ultima_palabra": 23.12,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Después, la alarma. Un sistema de alarma casero tiene un panel central y sensores en puertas y ventanas. Los sensores de puertas suelen ser interruptores magnéticos. Un imán va en la puerta y el interruptor en el marco. Cuando la puerta se abre, el imán se aleja y el circuito cambia. El panel anota cada cambio con su hora y en muchos sistemas lo manda a la central de la empresa de seguridad."
+ },
+ "6.3_a.mp3": {
+  "id": "6.3",
+  "duracion": 43.0,
+  "fin_ultima_palabra": 42.84,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Richard dijo que una alerta de la alarma lo hizo regresar. Los registros de la empresa de seguridad no mostraban ninguna actividad esa mañana antes de que Connie llegara. Lo que sí registraron fue la puerta del garaje abriéndose cerca de las 9.23, la hora en que ella volvió del gimnasio. A las 10.11 registraron la alarma de pánico activada desde el llavero de Richard. La empresa llamó al 9.11 a las 10.16. Richard llamó cuatro minutos después. Luego, Facebook. Entre las 9.40 y las 9.46 desde el iPhone de Connie y dentro de la casa se publicaron videos en su cuenta y se mandó un mensaje a una amiga. Según Richard, a esa hora Connie llevaba casi 45 minutos muerta."
+ },
+ "6.3_b.mp3": {
+  "id": "6.3",
+  "duracion": 44.21,
+  "fin_ultima_palabra": 43.98,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Richard dijo que una alerta de la alarma lo hizo regresar. Los registros de la empresa de seguridad no mostraban ninguna actividad esa mañana antes de que Connie llegara. Lo que sí registraron fue la puerta del garaje abriéndose cerca de las 9.23, la hora en que ella volvió del gimnasio. A las 10.11 registraron la alarma de pánico activada desde el llavero de Richard. La empresa llamó al 9.11 a las 10.16. Richard llamó cuatro minutos después. Luego Facebook entre las 9.40 y las 9.46 desde el iPhone de Connie y dentro de la casa se publicaron videos en su cuenta y se mandó un mensaje a una amiga. Según Richard, a esa hora Connie llevaba casi 45 minutos muerta."
+ },
+ "6.4_a.mp3": {
+  "id": "6.4",
+  "duracion": 36.22,
+  "fin_ultima_palabra": 36.0,
+  "parecido_texto": 0.983,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Y al final, lo que le dio nombre al caso. Kony usaba un Fitbit One, un aparato del tamaño de un llavero que se engancha en la ropa. Esa mañana lo llevaba prendido en la cintura del pantalón. Por dentro tiene un acelerómetro que cuenta pasos y un altímetro que cuenta pisos, igual que el iPhone de Friburgo. Lo que el Fitbit One no tiene es conexión propia a internet. Guarda los datos en su memoria minuto a minuto. Cuando está cerca de un teléfono o una computadora con la app de Fitbit, les manda los datos por bluetooth. La app los sube a los servidores de Fitbit y quedan guardados aunque el aparato se pierda o se destruya."
+ },
+ "6.4_b.mp3": {
+  "id": "6.4",
+  "duracion": 35.16,
+  "fin_ultima_palabra": 35.0,
+  "parecido_texto": 0.983,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "y al final lo que le dio nombre al caso. Kony usaba un Fitbit One, un aparato del tamaño de un llavero que se engancha en la ropa. Esa mañana lo llevaba prendido en la cintura del pantalón. Por dentro tiene un acelerómetro que cuenta pasos y un altímetro que cuenta pisos, igual que el iPhone de Friburgo. Lo que el Fitbit One no tiene es conexión propia a Internet. Guarda los datos en su memoria minuto a minuto. Cuando está cerca de un teléfono o una computadora con la app de Fitbit, les manda los datos por Bluetooth. La app lo sube a los servidores de Fitbit, ahí quedan guardados, aunque el aparato se pierda o se destruya."
+ },
+ "6.5_a.mp3": {
+  "id": "6.5",
+  "duracion": 31.72,
+  "fin_ultima_palabra": 31.52,
+  "parecido_texto": 0.963,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El Fitbit registró que Cony salió hacia el gimnasio a las 8.46, a las 9.23, después de nueve minutos de manejo, marcó movimiento otra vez. Había vuelto a casa. Desde ese momento, hasta las 10.05, Cony caminó 1.217 pies, unos 370 metros. Los investigadores midieron la distancia del garaje al sótano, no más de 125 pies, unos 38 metros. Su último movimiento quedó guardado a las 10.05. Según Richard, su esposa había muerto a las 9."
+ },
+ "6.5_b.mp3": {
+  "id": "6.5",
+  "duracion": 30.56,
+  "fin_ultima_palabra": 30.36,
+  "parecido_texto": 0.993,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El Fitbit registró que Connie salió hacia el gimnasio a las 8.46, a las 9.23, después de nueve minutos de manejo, marcó movimiento otra vez, había vuelto a casa. Desde ese momento hasta las 10.05, Connie caminó 1.217 pies, unos 370 metros. Los investigadores midieron la distancia del garaje al sótano, no más de 125 pies, unos 38 metros. Su último movimiento quedó guardado a las 10.05. Según Richard, su esposa había muerto a las 9."
+ },
+ "6.6_a.mp3": {
+  "id": "6.6",
+  "duracion": 38.36,
+  "fin_ultima_palabra": 38.2,
+  "parecido_texto": 0.99,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Con todos los dispositivos en la misma línea de tiempo, la historia del intruso ya no tenía dónde caber. Connie estaba viva caminando por su casa y publicando videos, mientras Richard ya estaba en esa casa y no en la carretera. En abril de 2017, la policía firmó una orden de arresto de 50 páginas. El juicio tardó cinco años en llegar. El 10 de mayo de 2022, un jurado declaró a Richard Abat culpable de asesinato, alteración de pruebas y declaraciones falsas. El 18 de agosto de 2022 lo condenaron a 65 años de prisión. La prensa estadounidense lo bautizó como el asesinato del Fitbit."
+ },
+ "6.6_b.mp3": {
+  "id": "6.6",
+  "duracion": 39.94,
+  "fin_ultima_palabra": 39.72,
+  "parecido_texto": 0.99,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Con todos los dispositivos en la misma línea de tiempo, la historia del intruso ya no tenía donde caber. Connie estaba viva caminando por su casa y publicando videos, mientras Richard ya estaba en esa casa y no en la carretera. En abril de 2017, la policía firmó una orden de arresto de 50 páginas. El juicio tardó cinco años en llegar. El 10 de mayo de 2022, un jurado declaró a Richard Davate culpable de asesinato, alteración de pruebas y declaraciones falsas. El 18 de agosto de 2022 lo condenaron a 65 años de prisión. La prensa estadounidense lo bautizó como el asesinato del Fitbit."
+ },
+ "7.0_a.mp3": {
+  "id": "7.0",
+  "duracion": 39.8,
+  "fin_ultima_palabra": 39.56,
+  "parecido_texto": 0.938,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "En el caso de Abate, los datos estaban guardados en lugares fáciles de pedir. Los servidores de una empresa de correo, de Facebook y de Fitbit. En el mundo AI o TI, eso es la excepción. Casi todos los teléfonos usan uno de dos sistemas operativos, AI, OS o Android. Y las herramientas forenses los conocen bien. Un dispositivo AI o TI puede tener cualquier cosa. Cada fabricante usa su propio sistema, su propio formato y su propia forma de guardar los datos. una cámara barata, un reloj inteligente y un sensor de una fábrica pueden no parecerse en nada por dentro. Además, muchos tienen muy poca memoria y sobrescriben sus registros cada pocas horas."
+ },
+ "7.0_b.mp3": {
+  "id": "7.0",
+  "duracion": 39.71,
+  "fin_ultima_palabra": 39.5,
+  "parecido_texto": 0.95,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "En el caso de Abate, los datos estaban guardados en lugares fáciles de pedir. Los servidores de una empresa de correo, de Facebook y de Fitbit. En el mundo AIoTi, eso es la excepción. Casi todos los teléfonos usan uno de dos sistemas operativos, AIoS o Android. Y las herramientas forense los conocen bien. Un dispositivo AIoTi puede tener cualquier cosa. Cada fabricante usa su propio sistema, su propio formato y su propia forma de guardar los datos. una cámara barata, un reloj inteligente y un sensor de una fábrica pueden no parecerse en nada por dentro. Además, muchos tienen muy poca memoria y sobrescriben sus registros cada pocas horas."
+ },
+ "7.1_a.mp3": {
+  "id": "7.1",
+  "duracion": 16.9,
+  "fin_ultima_palabra": 16.74,
+  "parecido_texto": 0.958,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Para sacar datos de un dispositivo AI o TI hay tres caminos. El primero es la nube del fabricante con una orden judicial. El segundo es la app del teléfono que controla el aparato porque muchas guardan una copia de los datos. El tercero es ir directo al chip."
+ },
+ "7.1_b.mp3": {
+  "id": "7.1",
+  "duracion": 14.44,
+  "fin_ultima_palabra": 14.28,
+  "parecido_texto": 0.979,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Para sacar datos de un dispositivo AIoTi hay tres caminos. El primero es la nube del fabricante con una orden judicial. El segundo es la app del teléfono que controla el aparato, porque muchas guardan una copia de los datos. El tercero es ir directo al chip."
+ },
+ "7.2_a.mp3": {
+  "id": "7.2",
+  "duracion": 36.18,
+  "fin_ultima_palabra": 36.0,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Ese tercer camino tiene dos técnicas. La primera se llama JTAG, por el grupo de ingenieros que la creó en 1985. El Joint Test Action Group nació para resolver un problema de fábrica. Cuando sale una placa nueva, como revisas que cada soldadura y cada chip funcionen sin desarmar nada. La solución fue poner en la placa unos puntos de contacto llamados puertos de prueba. Por esos puertos, una máquina puede hablar directo con el procesador y pedirle que lea o escriba cualquier parte de la memoria. En 1990, se volvió un estándar internacional."
+ },
+ "7.2_b.mp3": {
+  "id": "7.2",
+  "duracion": 35.2,
+  "fin_ultima_palabra": 34.98,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Ese tercer camino tiene dos técnicas. La primera se llama JTAG por el grupo de ingenieros que la creó en 1985. El Joint Test Action Group nació para resolver un problema de fábrica. Cuando sale una placa nueva, cómo revisas que cada soldadura y cada chip funcionen sin desarmar nada. La solución fue poner en la placa unos puntos de contacto llamados puertos de prueba. Por esos puertos, una máquina puede hablar directo con el procesador y pedirle que lea o escriba cualquier parte de la memoria. En 1990 se volvió un estándar internacional."
+ },
+ "7.3_a.mp3": {
+  "id": "7.3",
+  "duracion": 25.4,
+  "fin_ultima_palabra": 25.38,
+  "parecido_texto": 0.988,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El perito aprovecha esa puerta de fábrica, desarma el aparato y busca los puertos de prueba en la placa, que muchas veces no tienen ninguna etiqueta. Le suelda cables muy delgados y los conecta a una interfaz JTAG. Después le pide al procesador que lea la memoria completa byte por byte y la guarde como un archivo. El aparato no se destruye y como la conversación es directa con el procesador, no importa que el puerto USB esté bloqueado o dañado."
+ },
+ "7.3_b.mp3": {
+  "id": "7.3",
+  "duracion": 26.33,
+  "fin_ultima_palabra": 26.3,
+  "parecido_texto": 0.988,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "El perito aprovecha esa puerta de fábrica, desarma el aparato y busca los puertos de prueba en la placa que muchas veces no tienen ninguna etiqueta. Le suelda cables muy delgados y los conecta a una interfaz JTAG. Después le pide al procesador que lea la memoria completa byte por byte y la guarde como un archivo. El aparato no se destruye y como la conversación es directa con el procesador, no importa que el puerto USB esté bloqueado o dañado."
+ },
+ "7.4_a.mp3": {
+  "id": "7.4",
+  "duracion": 36.5,
+  "fin_ultima_palabra": 36.3,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "La segunda técnica se llama chip off. Se usa cuando la placa no tiene puertos de prueba accesibles o cuando el aparato llegó quemado, mojado o destrozado. El perito saca el chip de memoria de la placa. Una forma es calentarlo con aire caliente hasta que la soldadura se derrite y despegarlo con pinzas. Otra forma es desgastar la placa por debajo hasta dejar expuestos los contactos del chip. Luego coloca el chip en un adaptador y lo lee con un programador, una máquina que habla directo con chips de memoria esta técnica destruye el aparato ya no se puede volver a armar y si el chip se daña con el calor no hay segunda oportunidad"
+ },
+ "7.4_b.mp3": {
+  "id": "7.4",
+  "duracion": 38.08,
+  "fin_ultima_palabra": 37.88,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "La segunda técnica se llama chip off. Se usa cuando la placa no tiene puertos de prueba accesibles o cuando el aparato llegó quemado, mojado o destrozado. El perito saca el chip de memoria de la placa. Una forma es calentarlo con aire caliente hasta que la soldadura se derrite y despegarlo con pinzas. Otra forma es desgastar la placa por debajo hasta dejar expuestos los contactos del chip. Luego coloca el chip en un adaptador y lo lee con un programador, una máquina que habla directo con chips de memoria, esta técnica destruye el aparato, ya no se puede volver a armar y si el chip se daña con el calor, no hay segunda oportunidad."
+ },
+ "7.5_a.mp3": {
+  "id": "7.5",
+  "duracion": 31.16,
+  "fin_ultima_palabra": 31.02,
+  "parecido_texto": 0.965,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Lo que sale de JTAG o de chip-off es un archivo binario, una fila enorme de ceros y unos sin etiquetas. El perito tiene que reconstruir dónde empieza cada archivo y qué significa cada bloque. Para eso necesita saber cómo ese fabricante en particular organiza su memoria. Por eso la falta de estándares en IE o TI pesa tanto. Cada aparato nuevo es un rompecabezas nuevo. Y aunque se logre sacar el dato, falta lo más difícil, saber qué significa. eso nos lleva a Bentonville, Arcanso."
+ },
+ "7.5_b.mp3": {
+  "id": "7.5",
+  "duracion": 33.34,
+  "fin_ultima_palabra": 33.24,
+  "parecido_texto": 0.965,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Lo que sale de JTAG o de chip off es un archivo binario, una fila enorme de ceros y unos sin etiquetas. El perito tiene que reconstruir dónde empieza cada archivo y qué significa cada bloque. Para eso necesita saber cómo ese fabricante en particular organiza su memoria. Por eso, la falta de estándares en IE o TI pesa tanto. Cada aparato nuevo es un rompecabezas nuevo. Y aunque se logre sacar el dato, falta lo más difícil, saber qué significa. Eso nos lleva a Bentonville, Arcanso."
+ },
+ "7.6_a.mp3": {
+  "id": "7.6",
+  "duracion": 19.69,
+  "fin_ultima_palabra": 19.56,
+  "parecido_texto": 0.982,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Noviembre de 2015, unos amigos se reúnen en la casa de James Bates para ver un partido de fútbol americano. A la mañana siguiente, uno de ellos, Victor Collins, aparece muerto en el jacuzzi del patio. La policía se lleva de la cocina la bocina Amazon Echo de Bates. ¿Quieres saber si Alexa escuchó algo esa noche?"
+ },
+ "7.6_b.mp3": {
+  "id": "7.6",
+  "duracion": 18.16,
+  "fin_ultima_palabra": 17.96,
+  "parecido_texto": 0.973,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Noviembre de 2015, unos amigos se reúnen en la casa de James Bates para ver un partido de fútbol americano. A la mañana siguiente, uno de ellos, Victor Collins, aparece muerto en el jacuzzi del patio. La policía se lleva de la cocina a la bocina Amazon Echo de Bates. ¿Quieres saber si Alexa escuchó algo esa noche?"
+ },
+ "7.7_a.mp3": {
+  "id": "7.7",
+  "duracion": 36.46,
+  "fin_ultima_palabra": 36.32,
+  "parecido_texto": 0.991,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Para saber qué podía haber, hay que entender cómo escucha una bocina eco. La bocina escucha todo el tiempo, pero solo busca una palabra. Alexa. Mientras no la oye, no graba nada. Cuando la detecta, enciende un anillo de luz azul y graba unos segundos. Ese audio viaja a los servidores de Amazon, donde se interpreta la orden y se guarda la grabación. Por eso lo que la policía buscaba estaba en la nube de Amazon. Y la orden judicial fue para Amazon. Amazon se niega a entregar las grabaciones sin una orden válida. El caso se vuelve famoso por eso. Al final Amazon las entrega cuando el propio Bates dice que no le importa."
+ },
+ "7.7_b.mp3": {
+  "id": "7.7",
+  "duracion": 35.9,
+  "fin_ultima_palabra": 35.74,
+  "parecido_texto": 0.987,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Para saber qué podía haber, hay que entender cómo escucha una bocina eco. La bocina escucha todo el tiempo, pero solo busca una palabra. Mientras no la oye, no graba nada. Cuando la detecta, enciende un anillo de luz azul y graba unos segundos. Ese audio viaja a los servidores de Amazon, donde se interpreta la orden y se guarda la grabación. Por eso lo que la policía buscaba estaba en la nube de Amazon, y la orden judicial fue para Amazon. Amazon se niega a entregar las grabaciones sin una orden válida. El caso se vuelve famoso por eso. Al final Amazon las entrega cuando el propio Bates dice que no le importa."
+ },
+ "7.8_a.mp3": {
+  "id": "7.8",
+  "duracion": 37.2,
+  "fin_ultima_palabra": 37.06,
+  "parecido_texto": 0.991,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "La Fiscalía también tiene otro aparato, el medidor de agua inteligente de la casa. Un medidor así cuenta el agua que pasa por la tubería y guarda el consumo por intervalos de tiempo. Después manda esas lecturas a la compañía de agua sin que nadie tenga que ir a leerlo. El medidor de Bates registró 140 galones, unos 530 litros, entre la 1 y las 3 de la madrugada. Para la Fiscalía era la señal de que alguien había limpiado el patio para borrar evidencia. El 29 de noviembre de 2017, la Fiscalía retiró los cargos de asesinato. La razón que dio fue que la evidencia podía sostener más de una explicación razonable."
+ },
+ "7.8_b.mp3": {
+  "id": "7.8",
+  "duracion": 37.06,
+  "fin_ultima_palabra": 36.94,
+  "parecido_texto": 0.991,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "La Fiscalía también tiene otro aparato, el medidor de agua inteligente de la casa. Un medidor así cuenta el agua que pasa por la tubería y guarda el consumo por intervalos de tiempo. Después manda esas lecturas a la compañía de agua sin que nadie tenga que ir a leerlo. El medidor de Bates registró 140 galones, unos 530 litros, entre la 1 y las 3 de la madrugada. Para la Fiscalía era la señal de que alguien había limpiado el patio para borrar evidencia. El 29 de noviembre de 2017, la Fiscalía retiró los cargos de asesinato. La razón que dio fue que la evidencia podía sostener más de una explicación razonable."
+ },
+ "8.0_a.mp3": {
+  "id": "8.0",
+  "duracion": 24.98,
+  "fin_ultima_palabra": 24.92,
+  "parecido_texto": 1.0,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Mientras ves este video, tu teléfono está contando tus pasos y quizá en tu casa hay una bocina esperando escuchar su nombre. Ninguno de esos aparatos se fabricó para servir como evidencia. El Fitbit de Connie Dabate no tenía forma de saber lo que pasaba en su casa esa mañana, solo contaba pasos. El último que registró quedó guardado a las 10.05. Seis años y medio después, doce personas en un jurado lo leyeron."
+ },
+ "8.0_b.mp3": {
+  "id": "8.0",
+  "duracion": 25.63,
+  "fin_ultima_palabra": 25.52,
+  "parecido_texto": 0.973,
+  "vocalizaciones": [],
+  "respiraciones": 0,
+  "cola": [],
+  "dicho": "Mientras ves este video, tu teléfono está contando tus pasos y quizá en tu casa hay una bocina esperando escuchar su nombre. Ninguno de esos aparatos se fabricó para servir como evidencia. El Fitbit de Conny Davate no tenía forma de saber lo que pasaba en su casa esa mañana, solo contaba pasos. El último que registró quedó guardado a las 10.05. Seis años y medio después, doce personas en un jurado lo leyeron."
+ }
+}

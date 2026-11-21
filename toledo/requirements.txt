@@ -1,0 +1,8 @@
+fonttools==4.68.0
+numpy==2.5.4
+opentype-feature-freezer==1.32.2
+pillow==13.0.0
+pycairo==1.29.2
+pyloudnorm==0.2.0
+scipy==1.18.1
+playwright==1.65.0

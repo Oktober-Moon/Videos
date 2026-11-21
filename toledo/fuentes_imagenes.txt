@@ -1,0 +1,88 @@
+Fuentes de las imágenes de imagenes/
+Formato: archivo | página de origen | autor o medio | licencia
+Las fotos de Wikimedia Commons con licencia CC BY-SA exigen dar crédito al autor y citar la licencia; los créditos van en la tarjeta final del video.
+
+## Escena 1
+1.0_friburgo_noche.jpg | https://commons.wikimedia.org/wiki/File:Salzstra%C3%9Fe_%28Freiburg%29_3432.jpg | Joergens.mi (Wikimedia Commons) | CC BY-SA 3.0
+1.0_dreisam.jpg | https://commons.wikimedia.org/wiki/File:Ausfluss_des_M%C3%BChlbaches_aus_der_Dreisam_unter_der_Freiburger_Schwabentorbr%C3%BCcke%2C_Radweg_FR_1_am_S%C3%BCdu.jpg | Andreas Schwarzkopf (Wikimedia Commons) | CC BY-SA 3.0
+1.1_tranvia_friburgo.jpg | https://commons.wikimedia.org/wiki/File:CAF_Urbos_3_Nr._314_der_Freiburger_Strassenbahn_in_der_Salzstrasse_%282025%29.jpg | JoachimKohler-HB (Wikimedia Commons) | CC BY-SA 4.0
+
+## Escena 2
+2.3_chip_a7.jpg | https://commons.wikimedia.org/wiki/File:IPhone_5s_(model_A1457)_-_mainboard_-_Apple_A7_in_situ-6696.jpg | Raimond Spekking (Wikimedia Commons) | CC BY-SA 4.0
+2.3_titan_m.jpg | https://android-developers.googleblog.com/2018/10/building-titan-better-security-through.html | Google, Android Developers Blog (oct. 2018) | imagen de prensa sin licencia libre, uso educativo
+
+## Escena 3
+3.0_iphone_5c.jpg | https://commons.wikimedia.org/wiki/File:Apple_iPhone_5c_(15048809811).jpg | Maurizio Pesce (Wikimedia Commons) | CC BY 2.0
+3.1_icloud_ajustes.png | https://support.apple.com/en-us/108366 | Apple, página de soporte «How to back up your iPhone or iPad with iCloud» (pantalla de iOS 27) | captura de pantalla, uso educativo
+3.2_carta_tim_cook.png | https://www.apple.com/customer-letter/ | Apple, «A Message to Our Customers» (16 feb. 2016) | captura de pantalla, uso educativo
+3.2_titulares_2016.jpg | https://www.nbcnews.com/storyline/san-bernardino-shooting/apple-fights-order-unlock-bernardino-shooter-s-iphone-fbi-n519881 y https://www.npr.org/2016/02/17/467115527/apple-to-fight-court-order-to-break-into-san-bernardino-shooters-iphone | NBC News y NPR (17 feb. 2016); composición de dos titulares | captura de pantalla, uso educativo
+3.3_puerto_lightning.jpg | https://commons.wikimedia.org/wiki/File:IPhone_6s_-_Lightning_connector_with_pentalobe_screws-92677.jpg | Raimond Spekking (Wikimedia Commons) | CC BY-SA 4.0
+3.3_washington_post_2021.png | https://siliconangle.com/2021/04/14/washington-post-azimuth-not-cellebrite-hacked-san-bernardino-shooters-phone/ | SiliconANGLE, Duncan Riley (14 abr. 2021), nota que retoma la exclusiva del Washington Post | captura de pantalla, uso educativo
+3.4_logo_mozilla.png | https://commons.wikimedia.org/wiki/File:Mozilla_2024_logo.svg | Mozilla (Wikimedia Commons) | dominio público (logotipo; marca registrada de Mozilla)
+3.8_chip_a6_vs_a7.jpg | https://commons.wikimedia.org/wiki/File:Apple_A6_Chip.jpg y https://commons.wikimedia.org/wiki/File:Apple_A7_chip.jpg | Henriok (Wikimedia Commons); composición lado a lado propia | dominio público
+3.9_graykey.jpg | https://www.malwarebytes.com/blog/news/2018/03/graykey-iphone-unlocker-poses-serious-security-concerns | Malwarebytes Labs, Thomas Reed (mar. 2018); imagen de material promocional de Grayshift | imagen de prensa sin licencia libre, uso educativo
+3.9_modo_usb.png | https://www.macrumors.com/how-to/access-controls-usb-restricted-mode-ios-12/ | MacRumors (jun. 2018), pantalla de iOS 12 «USB Accessories» | captura de pantalla, uso educativo
+3.11_bolsa_faraday.jpg | https://commons.wikimedia.org/wiki/File:MissionDarkness_FaradayBag_phone.jpg | MIC85 (Wikimedia Commons) | CC BY-SA 4.0
+3.12_carta_detroit.png | https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/ | 404 Media, Joseph Cox (7 nov. 2024); solo la parte abierta del artículo (el documento está tras el muro de pago) | captura de pantalla, uso educativo
+3.14_tweet_checkm8.png | https://www.malwarebytes.com/blog/news/2019/09/new-ios-exploit-checkm8-allows-permanent-compromise-of-iphones | Malwarebytes Labs (27 sep. 2019), imagen del tuit de @axi0mX (https://twitter.com/axi0mX/status/1177542201670168576) | captura de pantalla, uso educativo
+
+## Escena 4
+4.0_dreisam_dia.jpg | https://commons.wikimedia.org/wiki/File:Renaturierte_Dreisam_in_Freiburg-Waldsee_5.jpg | Andreas Schwarzkopf (Wikimedia Commons) | CC BY-SA 3.0
+4.0_app_salud.png | https://support.apple.com/en-us/104997 | Apple, página de soporte «Use the Health app on your iPhone or iPad» (pantalla de iOS 26) | captura de pantalla, uso educativo
+4.2_pisos_subidos.png | https://www.zdnet.com/article/apple-suddenly-told-me-i-was-climbing-a-lot-of-stairs-and-i-tried-to-find-out-why/ | ZDNET, captura de la app Salud («Flights Climbed») | captura de pantalla, uso educativo
+4.3_orilla_pendiente.jpg | https://commons.wikimedia.org/wiki/File:Renaturierte_Dreisam_in_Freiburg-Waldsee.jpg | Andreas Schwarzkopf (Wikimedia Commons) | CC BY-SA 3.0
+4.5_tribunal_friburgo.jpg | https://commons.wikimedia.org/wiki/File:Landgericht_(Freiburg).jpg | Joergens.mi (Wikimedia Commons) | CC BY-SA 3.0
+4.6_corfu.jpg | https://commons.wikimedia.org/wiki/File:The_Old_Fortress_and_the_Old_Town_of_Corfu_-_September_2017.jpg | Martin Falbisoner (Wikimedia Commons) | CC BY-SA 4.0
+4.7_tagesschau.jpg | https://commons.wikimedia.org/wiki/File:Tagesschau_Logo_2015.svg | ARD (Wikimedia Commons); logotipo centrado sobre fondo blanco 1920×1080 | dominio público (logotipo; marca registrada de ARD)
+4.7_sentencia.jpg | https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/lg-freiburg-verurteilt-hussein-k-wegen-mordes-an-studentin-zu-hoechststrafe-2018-03-22 | beck-aktuell (22 mar. 2018) | captura de pantalla, uso educativo
+
+## Escena 6
+6.2_sensor_puerta.jpg | https://commons.wikimedia.org/wiki/File:Magnet_contact_as_burglary_prevention-9294.jpg | Raimond Spekking (Wikimedia Commons) | CC BY-SA 4.0
+6.4_fitbit_one.jpg | https://commons.wikimedia.org/wiki/File:Fitbit_One_(15019808012).jpg | bfishadow (Wikimedia Commons) | CC BY 2.0
+6.6_titular_fitbit.jpg | https://www.ctpublic.org/news/2022-05-10/jurors-in-fitbit-murder-trial-convict-man-of-killing-wife | Connecticut Public / The Associated Press (10 may. 2022) | captura de pantalla, uso educativo
+
+## Escena 7
+7.2_puertos_jtag.jpg | https://commons.wikimedia.org/wiki/File:Netgear_ProSafe_Dual_WAN_VPN_Gigabit_Firewall_FVS336G_JTAG_interface.jpeg | Zuzu (Wikimedia Commons) | CC BY-SA 3.0
+7.3_soldadura_jtag.jpg | https://www.nist.gov/news-events/news/2020/01/nist-tests-forensic-methods-getting-data-damaged-mobile-phones | R. Press/NIST (28 ene. 2020) | dominio público (obra del gobierno de EE. UU.; NIST pide dar crédito)
+7.4_chip_off.jpg | https://commons.wikimedia.org/wiki/File:Desoldering_with_hot_air.jpg | Aisart (Wikimedia Commons) | CC BY-SA 3.0
+7.6_amazon_echo.jpg | https://commons.wikimedia.org/wiki/File:Amazon_Echo.jpg | Frmorrison (Wikimedia Commons) | CC BY-SA 3.0
+7.7_titular_amazon.jpg | https://www.engadget.com/2017-02-24-amazon-refuses-hand-over-alexa-info-murder-investigation.html | Engadget, Mariella Moon (24 feb. 2017) | captura de pantalla, uso educativo
+7.8_titular_cargos.jpg | https://www.npr.org/sections/thetwo-way/2017/11/29/567305812/arkansas-prosecutors-drop-murder-case-that-hinged-on-evidence-from-amazon-echo | NPR, Colin Dwyer (29 nov. 2017) | captura de pantalla, uso educativo
+
+## Alternativas (en imagenes/alternativas/; el video no las usa)
+Opciones para cambiar una foto, o para cubrir un lugar que falta: basta renombrarla.
+3.0_alt_mapa_inland_regional_center.png | https://commons.wikimedia.org/wiki/File:Inland_Regional_Center_map.png | © OpenStreetMap contributors (Wikimedia Commons) | CC BY-SA 2.0
+3.1_alt_cambiar_contrasena_apple.png | https://support.apple.com/en-us/101567 | Apple, página de soporte «Change your Apple Account password» (pantalla de iOS 26) | captura de pantalla, uso educativo
+3.4_alt_logo_mozilla_blanco.png | https://commons.wikimedia.org/wiki/File:Mozilla_2024_logo.svg | Mozilla (Wikimedia Commons); versión en blanco hecha aquí | dominio público (logotipo; marca registrada de Mozilla)
+4.2_alt_registro_pisos_gadgethacks.png | https://ios.gadgethacks.com/how-to/easiest-way-view-your-step-count-walking-distance-flights-climbed-iphone-0219580/ | Gadget Hacks (captura de iOS 13 con registro de pisos por hora; trae una flecha roja del medio) | captura de pantalla, uso educativo
+5.0_alt_ellington_ruta140.jpg | https://commons.wikimedia.org/wiki/File:CT_Route_140,_Ellington_CT.jpg | John Phelan (Wikimedia Commons) | CC BY 4.0
+5.0_alt_ellington_letrero.jpg | https://commons.wikimedia.org/wiki/File:Ellington,_CT.jpg | CTsignhunt (Wikimedia Commons) | CC0
+7.6_alt_bentonville_centro.jpg | https://commons.wikimedia.org/wiki/File:Downtown_Bentonville,_AR.jpg | Brandonrush (Wikimedia Commons) | CC BY-SA 3.0
+
+## Clips de video (clips_reales/)
+Licencias: la de Pexels y la de Pixabay permiten usar los videos gratis sin pedir permiso ni dar crédito (se da igual en la tarjeta final).
+rio_noche.mp4 | https://www.pexels.com/video/river-visible-through-lights-of-the-street-lamp-posts-4191616/ | Pexels (autor no anotado: la página pidió verificación al volver a abrirla) | Licencia de Pexels
+tranvia_noche.mp4 | https://pixabay.com/videos/city-tram-transport-night-tram-206637/ | thomalutfpv (Pixabay) | Licencia de contenido de Pixabay
+caminante_niebla.mp4 | https://pixabay.com/videos/fog-night-cop-light-walking-man-102972/ | adege (Pixabay) | Licencia de contenido de Pixabay
+
+## Fotos de personas (aprobadas por Eduardo el 11 de noviembre de 2026)
+Las marcadas «uso escolar» son fotos de prensa con dueño: sirven para la exposición en clase, pero el video no se publica.
+1.0_maria_ladenburger.jpg | https://www.maria-ladenburger-stiftung.de/ (fundación creada por sus padres) | familia Ladenburger | uso escolar
+2.0_hussein_khavari.jpg | https://www.dailymail.com/news/article-5530867/Afghan-murdered-EU-officials-daughter-jailed-life-Germany.html (en el juicio, sep. 2017; recortada sin el crédito impreso) | Eibner-Pressefoto | uso escolar
+3.0_farook.png | https://commons.wikimedia.org/wiki/File:Syed_Rizwan_Farook.png | DMV de California (foto de licencia de conducir) | dominio público
+3.0_malik.jpg | https://commons.wikimedia.org/wiki/File:Tasheen_Malik_at_Ohare_Airport_via_US_Customs_7-27-2014.jpg | Oficina de Aduanas y Protección Fronteriza de EE. UU. (27 jul. 2014) | dominio público
+3.0_farook_malik.jpg | montaje de las dos anteriores, lado a lado | (las de arriba) | dominio público
+3.2_tim_cook.jpg | https://commons.wikimedia.org/wiki/File:Tim_Cook_(2017)_(cropped).jpg | Austin Community College (Wikimedia Commons) | CC BY 2.0
+3.5_mark_dowd.jpg | https://www.dailymail.com/news/article-9470543/FBI-got-secretive-Australian-firm-unlock-San-Bernardino-terrorists-iPhone-Apple-battle.html (charla en el Security Analyst Summit de Kaspersky) | sin crédito visible | uso escolar
+3.12_jiska_classen.jpg | https://hpi.de/en/classen/ (retrato oficial) | Instituto Hasso Plattner | uso escolar
+4.5_juicio_khavari.jpg | la misma foto que 2.0_hussein_khavari.jpg | Eibner-Pressefoto | uso escolar
+4.7_merkel.jpg | https://commons.wikimedia.org/wiki/File:2016-12-06_Angela_Merkel_CDU_Parteitag_by_OlafKosinsky_BT0A4997.jpg (congreso de la CDU, 6 dic. 2016) | Olaf Kosinsky (Wikimedia Commons) | CC BY-SA 3.0 de
+5.0_richard_dabate.jpg | https://people.com/fitbit-murder-case-connie-dabate-8788511 (en audiencia, con uniforme de preso) | Mark Mirko / Hartford Courant vía AP | uso escolar
+5.0_richard_y_connie_dabate.jpg | https://people.com/fitbit-murder-case-connie-dabate-8788511 | sin crédito; probablemente de la cuenta de MySpace de Connie | uso escolar
+5.0_connie_dabate.jpg | recorte de la anterior (solo Connie) | (la de arriba) | uso escolar
+6.6_dabate_juicio.jpg | https://people.com/fitbit-murder-case-connie-dabate-8788511 (con su abogado Hubert Santos, Rockville, 28 abr. 2017) | Stephen Dunn / Hartford Courant vía AP | uso escolar
+7.6_james_bates.jpg | https://www.5newsonline.com/article/news/local/outreach/back-to-school/murder-charge-dropped-in-bentonville-case-involving-amazon-echo/527-91b0f36c-b190-418b-ba35-3f525532af21 (recorte) | ficha policial del condado de Benton, en el montaje de 5NEWS / KFSM | uso escolar. El cargo se retiró en 2017: no fue condenado
+7.6_victor_collins.jpg | la misma imagen de 5NEWS (recorte) | foto difundida por los medios | uso escolar
+7.6_casa_bates.jpg | la misma imagen de 5NEWS (recorte del fondo) | 5NEWS / KFSM | uso escolar
+alternativas/3.12_alt_jiska_classen_36c3.jpg | https://commons.wikimedia.org/wiki/File:Jiska-classen-36c3-cyberhut.jpg | captura de su charla en el 36C3 | CC BY 4.0
+alternativas/4.7_alt_merkel_bratislava.jpg | https://commons.wikimedia.org/wiki/File:Angela_Merkel_(2016-09-16_BRATISLAVA_SUMMIT).jpg | EU2016 SK | CC0

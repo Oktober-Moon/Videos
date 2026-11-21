@@ -1,0 +1,45 @@
+Imágenes que faltan en imagenes/
+Mientras no estén, el video pone en su lugar una ilustración hecha con código. Al copiar la foto con el
+nombre exacto a imagenes/, basta volver a renderizar esa subescena.
+
+## Fotos de personas
+Las demás ya están en imagenes/ (aprobadas el 11 de noviembre de 2026; fuentes en fuentes_imagenes.txt).
+No encontradas:
+2.0_tranvia_camara.jpg      | las imágenes de la cámara del tranvía se mostraron en el juicio, pero no se publicaron. Propuesta: vista de cámara de seguridad del tranvía hecha en 3D
+3.6_david_wang.jpg          | «David Wang» es un nombre muy común; no hay foto donde se confirme que sea el cofundador de Corellium
+4.4_recreacion_policia.jpg  | no hay foto del policía que repitió el recorrido. Propuesta: hacerlo en 3D en la orilla del Dreisam (figura lejana)
+5.3_sarah_ganzer.jpg        | (en la prensa se escribe «Sara»). Solo hay una toma borrosa saliendo del juzgado; es una persona privada: se recomienda no mostrar su cara
+
+Qué va en el video en su lugar (16 de noviembre de 2026):
+2.0_tranvia_camara.jpg      | la calle 3D de Friburgo vista desde la cámara de un tranvía, con una figura de espaldas, tratada como imagen de vigilancia
+3.6_david_wang.jpg          | una silueta neutra con su nombre
+4.4_recreacion_policia.jpg  | un investigador 3D de espaldas, con captura de movimiento, por la ciclovía del Dreisam
+5.3_sarah_ganzer.jpg        | solo su nombre en la lista de 5.3; no se muestra su cara
+
+## Lugares sin foto de libre acceso
+En el video (16 de noviembre de 2026): 1.1 y 3.0 son lugares hechos en 3D (la orilla al amanecer; un edificio
+genérico de estuco de dos pisos); la casa de Ellington es una recreación 3D rotulada «recreación» en la
+escena 5, y su cocina vacía cierra la escena 8. 4.0_dreisam_dia.jpg y 4.3_orilla_pendiente.jpg están, pero
+se usa el río en 3D.
+1.1_escena_dreisam.jpg | foto de prensa de la orilla con la policía (octubre de 2016) | son fotos de agencia (dpa); salen en las notas de octubre de 2016 de la Badische Zeitung y otros diarios alemanes. Mientras tanto: amanecer gris en la orilla con cinta policial, dibujado con código
+3.0_inland_regional_center.jpg | el edificio en San Bernardino | no hay foto libre en Commons; las de ABC7 y NewsChannel5 ya no cargan. En imagenes/alternativas/ hay un mapa de OpenStreetMap del lugar
+5.0_casa_ellington.jpg | la casa de los Dabate en Ellington | no hay foto libre; Fox61 no deja entrar al navegador automatizado. En imagenes/alternativas/ hay dos fotos de Ellington (una carretera y el letrero del pueblo)
+
+## Están, pero conviene revisarlas
+3.12_carta_detroit.png | no es la carta: es la parte abierta del artículo de 404 Media (titular y entrada); el documento está tras el muro de pago
+3.1_icloud_ajustes.png y 4.0_app_salud.png | son pantallas de iOS 26/27, no de 2015-2016 (hay otra opción para 3.1 en alternativas/)
+3.9_modo_usb.png (800 px), 4.2_pisos_subidos.png (708 px), 3.11_bolsa_faraday.jpg (1200 px) | resolución baja: se verán bien en un recuadro, no a pantalla completa
+3.14_tweet_checkm8.png | es la imagen del tuit publicada por Malwarebytes; no muestra la fecha (la nota es del 27 de septiembre de 2019)
+5.0_richard_y_connie_dabate.jpg | aprobada, pero no se usa: pudo salir de una red social (en el video solo van las fotos separadas)
+3.0_iphone_5c.jpg | el color del 5C de Farook no es público; el plano 3D usa el azul de esta foto
+
+## Clips de video (para clips_reales/)
+Ya no hacen falta: desde el 11 de noviembre de 2026 los lugares se hacen en 3D (direccion_visual.md §4).
+Se conserva la lista como referencia.
+Pexels pide verificación («Un momento…») al abrir la página de cada video, así que no los bajé. Están ahí y son los mejores encontrados:
+clips_reales/tranvia_friburgo.mp4 | https://www.pexels.com/video/31903224/ | un tranvía real de Friburgo rumbo a Littenweiler (escena 1.1 y 2.0)
+clips_reales/bici_noche.mp4 | https://www.pexels.com/video/34964493/ | ciclista en una calle con niebla de noche (escena 1.0, «se sube a su bicicleta»)
+clips_reales/calle_noche.mp4 | https://www.pexels.com/video/34964492/ | calle empedrada con niebla y faroles (escena 1.0)
+clips_reales/rio_niebla.mp4 | https://www.pexels.com/video/5541847/ | río con niebla al amanecer (escena 1.1)
+No encontrado en Pexels, Pixabay ni Commons:
+clips_reales/cinta_policial.mp4 | cinta policial alemana (roja y blanca, «Polizeiabsperrung»); en los bancos solo hay cinta amarilla de EE. UU. (escena 1.1)
